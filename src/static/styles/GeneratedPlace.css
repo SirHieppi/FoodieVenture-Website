@@ -1,0 +1,78 @@
+.PlaceContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    padding: 20px;
+}
+
+.PlaceName {
+    order: 1;
+    align-self: center;
+    /* width: 33% */
+}
+
+.YelpInfoContainer {
+    order: 4;
+    /* width: 33% */
+    align-self: center;
+    padding-top: 3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    /* margin: 5%; */
+}
+
+.YelpReviewNum{
+    order: 1;
+}
+
+.YelpLink {
+    order: 3;
+    height:1%;
+    /* Get rid of bootstrap button decoration */
+    background-color: white;
+    border: 0px;
+}
+
+.YelpStars {    
+    order: 2;
+
+}
+
+.PlaceLocation {
+    order: 3;
+    /* width: 33% */
+    align-self: center;
+}
+
+.PlaceInfoContainer {
+    display: flex;
+    flex-direction: column;
+    order: 2;
+    /* width: 60%; */
+    /* padding-left: 30%;
+    padding-right: 10%; */
+    align-self: center;
+    padding-bottom: 3%;
+}
+
+.PlaceCategory {
+    order: 1;
+}
+
+.PlaceImage {
+    order: 2;
+    /* width: 40%; */
+    scroll-padding-left: 50%;
+    align-self: center;
+}
+
+.PlaceImage img {
+    border-radius: 5%;
+    scroll-padding-left: 200px;
+    width: 50%;
+}

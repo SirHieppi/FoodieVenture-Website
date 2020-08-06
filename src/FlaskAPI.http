@@ -1,0 +1,39 @@
+GET http://127.0.0.1:5000/user/howardlam546/
+
+###
+
+POST http://127.0.0.1:5000/results/id/1 HTTP/1.1
+content-type: application/json
+
+{
+    "name": "sample",
+    "location": "5507 Don Rodolfo Ct. San Jose, CA 95123",
+    "selectedFoodCategories": ["breakfast"]
+}
+
+###
+
+POST http://howardlam546.pythonanywhere.com/guest/new HTTP/1.1
+content-type: application/json
+
+{
+    
+}
+
+###
+
+POST http://127.0.0.1:5000/guest/id/1 HTTP/1.1
+content-type: application/json
+
+{
+    
+}
+
+###
+
+POST http://howardlam546.pythonanywhere.com/guest/id/5/remove HTTP/1.1
+content-type: application/json
+
+{
+    
+}

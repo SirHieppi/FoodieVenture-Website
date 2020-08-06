@@ -1,0 +1,62 @@
+.title {
+	color: black;
+	font-family: cursive;
+	font-size: 50px;
+	animation-name: none;
+}
+
+.userInfo {
+	padding-bottom: 100px;
+}
+
+.restaurantTitle {
+	font-family: cursive;
+	font-size: 30px;
+}
+
+.tableA {
+	/*table-layout: au;*/
+}
+
+.rotatingImage {
+/*	width: 100px;
+	height: 100px;*/
+	animation-name: rotateAnimation;
+	animation-duration: .5s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	animation-timing-function: linear;
+	position: relative;
+}
+
+.Button {
+	border-radius: 50%;
+	/*position: relative;
+    float: left;*/
+    width:  150px;
+    height: 150px;
+    /*background-position: 50% 50%;*/
+/*    background-repeat:   no-repeat;
+    background-size:     cover;*/
+}
+
+.UserList {
+	padding: 0px 300px;
+}
+
+.alert {
+	width: 25%;
+	padding: 20px;
+	background-color: #f44336;
+	color: white;
+}
+
+.outerAlert {
+	padding-bottom: 5%;
+	display: none;
+}
+
+@keyframes rotateAnimation {
+	50% {transform: rotate(35deg);}
+ 	51% {transform: rotate(-35deg);}
+}

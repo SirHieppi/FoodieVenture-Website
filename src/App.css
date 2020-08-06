@@ -1,0 +1,81 @@
+/* * { border: 1px solid red; } */
+
+/* Initial State */
+
+.AppContainerInitial {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap
+}
+
+.Title{
+	order: 1;
+	padding-bottom: 50px;
+	align-self: center;
+}
+
+.AddLocation{
+	order: 2;
+	padding: 10px;
+	align-self: center;
+}
+
+.FooterInitial{
+	order: 3;
+	bottom: 0;
+}
+
+/* Selection State */
+.AppContainerSelection {
+	display: flex;
+	flex-direction: column;
+}
+
+.FoodieVentureSelection {
+	order: 1;
+}
+	
+.FooterSelection {
+	order: 2;
+}
+
+/* Results State */
+.AppContainerResults {
+	display: flex;
+	flex-direction: column;
+}
+
+.Results {
+	order: 1;
+	padding-bottom: 20%;
+}
+	
+.FooterResults {
+	order: 2;
+	padding-bottom: 15%
+}
+
+/* Warnings */
+
+.rotatingImage {
+/*	width: 100px;
+	height: 100px;*/
+	animation-name: rotateAnimation;
+	animation-duration: .5s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	animation-timing-function: linear;
+	position: relative;
+}
+
+.alert {
+	width: 25%;
+	padding: 20px;
+	background-color: #f44336;
+	color: white;
+}
+
+.outerAlert {
+	padding-bottom: 5%;
+	display: none;
+}

@@ -1,0 +1,52 @@
+.ResultsContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.PlacesContainer {
+    order: 2;
+}
+
+.UserOptionsContainer {
+    order: 3;
+    display: flex;
+    justify-content: space-between;
+    /* flex-wrap: wrap; */
+    align-items: center;
+    padding-top: 3%;
+    flex-direction: row;
+    align-self: center;
+}
+
+.UserOptionsContainer > Button {
+    border: 4px #FF9382 solid;
+    margin: 0 5;
+    scroll-padding-bottom: 5%;
+}
+
+.ReselectCategories {
+    order: 1;
+    align-items: center;
+    height: 33%;
+    width: 33%;
+    background-color: white;
+}
+
+.Refresh {
+    order: 2;
+    align-items: center;
+    height: 33%;
+    width: 33%;
+    background-color: white;
+}
+
+.StartOver {
+    order: 3;
+    align-items: center;
+    height: 33%;
+    width: 33%;
+    background-color: white;
+}
