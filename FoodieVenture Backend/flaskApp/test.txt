@@ -1,0 +1,19 @@
+{
+    "businesses": [
+        {
+            "id": "yM6wFvTwL8S4pAysfKZxBw",
+            "alias": "scramblz-san-jose",
+            "name": "Scrambl'z",
+            "image_url": "https:\\/\\/s3-media4.fl.yelpcdn.com\\/bphoto\\/TyGS_dVHTBsxcl-btv-c2A\\/o.jpg",
+            "is_closed": false,
+            "url": "https:\\/\\/www.yelp.com\\/biz\\/scramblz-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 1711,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ]
+        }
+    ]
+}

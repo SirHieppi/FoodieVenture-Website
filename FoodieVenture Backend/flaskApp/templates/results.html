@@ -1,0 +1,37 @@
+
+<strong>Results</strong>
+<!-- 	{% for post in posts %}
+	<p>Restaurant Name <strong>{{ post.name }}</strong></p>
+	<p>Restaurant Rating {{ post.rating }}</p>
+	<p>Restaurant Distance {{ post.distance }}</p>
+{% endfor %} -->
+
+<center><table bgcolor="white" class="tableA" cellspacing="0" cellpadding="25">
+	{% if posts[0] %}
+		<tr>
+			<td>
+				<center><p class="restaurantTitle">{{posts[0].name}}</p></center>
+			</td>
+			<center><td class="gap">
+				<p>Rating: {{posts[0].rating}}</p>
+			</td></center>
+			<td class="gap">
+				<center><img src={{posts[0].image_url}} width=30% height=30%></center>
+			</td>
+		</tr>
+	{% endif %}
+
+	{% if posts[0] %}
+		<tr>
+			<td>
+				<center><p class="restaurantTitle">{{posts[1].name}}</p></center>
+			</td>
+			<td class="gap">
+				<center><p>Rating: {{posts[1].rating}}</p></center>
+			</td>
+			<td class="gap">
+				<center><img src={{posts[1].image_url}} width=30% height=30%></center>
+			</td>
+		</tr>
+	{% endif %}
+</table></center>

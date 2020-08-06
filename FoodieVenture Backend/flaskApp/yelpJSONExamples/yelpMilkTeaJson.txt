@@ -1,0 +1,2250 @@
+{
+    "businesses": [
+        {
+            "id": "Y40PICLfP8GypNa0lgDA-A",
+            "alias": "milk-tea-lab-san-jose",
+            "name": "Milk Tea Lab",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/v9pis2jTgyMhU56_qtcggQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/milk-tea-lab-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 52,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.253381,
+                "longitude": -121.903175
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1601 Branham Ln",
+                "address2": "Spc 3",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1601 Branham Ln",
+                    "Spc 3",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14084402208",
+            "display_phone": "(408) 440-2208",
+            "distance": 5431.232828517206
+        },
+        {
+            "id": "G_kNDp6zC39woiEyUsc0ag",
+            "alias": "tleaf-teapresso-san-jose-3",
+            "name": "Tleaf Teapresso",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TYRLr9ylnqn-cFyXIHaBow/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tleaf-teapresso-san-jose-3?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 275,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.248688599353,
+                "longitude": -121.857970789389
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "860 Blossom Hill Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "860 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1539.91099438007
+        },
+        {
+            "id": "UYAP3_BD1vXUKWtCl_pWiw",
+            "alias": "happy-lemon-san-jose-16",
+            "name": "Happy Lemon",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5VzYOYv8wREkRA7i5a58Xg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/happy-lemon-san-jose-16?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 81,
+            "categories": [
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.250214,
+                "longitude": -121.8442963
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "630 Blossom Hill Rd",
+                "address2": "Ste 30",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "630 Blossom Hill Rd",
+                    "Ste 30",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14088419499",
+            "display_phone": "(408) 841-9499",
+            "distance": 457.51627163873746
+        },
+        {
+            "id": "9nguk6zx3SaRP1Ds3NxA2w",
+            "alias": "pop-up-tea-coffee-and-snacks-san-jose",
+            "name": "Pop Up Tea, Coffee & Snacks",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/k2vDLlPyrPAlgqgWDLZakQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pop-up-tea-coffee-and-snacks-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 533,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.267076,
+                "longitude": -121.833671
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "185 Branham Ln",
+                "address2": "Ste 2",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95136",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "185 Branham Ln",
+                    "Ste 2",
+                    "San Jose, CA 95136"
+                ]
+            },
+            "phone": "+14084404675",
+            "display_phone": "(408) 440-4675",
+            "distance": 1640.4336575834952
+        },
+        {
+            "id": "dKRAISnpZ356QqvbinNVyg",
+            "alias": "n7-draft-tea-coffee-san-jose",
+            "name": "N7 draft tea + coffee",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RxmoHHOhIS0IK5QkiI62Gg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/n7-draft-tea-coffee-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 153,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3094745100416,
+                "longitude": -121.813864283734
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3005 Silver Creek Rd",
+                "address2": "Ste 184",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3005 Silver Creek Rd",
+                    "Ste 184",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "+16692344964",
+            "display_phone": "(669) 234-4964",
+            "distance": 6663.960266964925
+        },
+        {
+            "id": "7b7lIA5WlnnqycTKoLVKCA",
+            "alias": "pure-tea-bar-san-jose",
+            "name": "Pure Tea Bar",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PwRg1ZEN1nSyZy6oODxsaA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pure-tea-bar-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 173,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.236431,
+                "longitude": -121.804763
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "6195 Santa Teresa Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6195 Santa Teresa Blvd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14083001531",
+            "display_phone": "(408) 300-1531",
+            "distance": 3864.7835731032787
+        },
+        {
+            "id": "9qiWRFH9Va7Lznnw1o_U3Q",
+            "alias": "shake-tea-san-jose",
+            "name": "Shake Tea",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SdZPtAOnX8ra-e5vR7wxoQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shake-tea-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 116,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.252379,
+                "longitude": -121.86477601632
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "925 Blossom Hill Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "925 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+16692347498",
+            "display_phone": "(669) 234-7498",
+            "distance": 2038.805154468443
+        },
+        {
+            "id": "5Q3RWCgtwiUS1qxHviBIvg",
+            "alias": "gong-cha-san-jose-28",
+            "name": "Gong Cha",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nGrmYQBVv0OzdMwef4Y88A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gong-cha-san-jose-28?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 35,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2496803217194,
+                "longitude": -121.879258789122
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1180 Blossom Hill Rd",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1180 Blossom Hill Rd",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14084401338",
+            "display_phone": "(408) 440-1338",
+            "distance": 3346.2212789593177
+        },
+        {
+            "id": "9irgSE9KtPHlAL9Tm7I84g",
+            "alias": "tastea-san-jose-4",
+            "name": "Tastea",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/U3tyrcUJZrdydKAPCtijCQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tastea-san-jose-4?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 25,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.27517,
+                "longitude": -121.85158
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "509 W Capitol Expy",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95136",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "509 W Capitol Expy",
+                    "San Jose, CA 95136"
+                ]
+            },
+            "phone": "+14086224615",
+            "display_phone": "(408) 622-4615",
+            "distance": 2526.1340707701315
+        },
+        {
+            "id": "6IKQzAh8PwZ52k3Sj9ZdDg",
+            "alias": "oros-thai-chicken-and-rice-san-jose",
+            "name": "Oros Thai Chicken & Rice",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ab3uLg_0s7B2Ce9Gh_p3zA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/oros-thai-chicken-and-rice-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 91,
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.249168,
+                "longitude": -121.831525
+            },
+            "transactions": [],
+            "location": {
+                "address1": "5663 Snell Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5663 Snell Ave",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14086201200",
+            "display_phone": "(408) 620-1200",
+            "distance": 1028.496168658758
+        },
+        {
+            "id": "FbpNG9mI5pIgkdtVUSoCnQ",
+            "alias": "tzone-san-jose-2",
+            "name": "TZONE",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ruWWVC0YU9cTK5LdamQHuw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tzone-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 38,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.247244,
+                "longitude": -121.801729
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "5700 Village Oaks Dr",
+                "address2": "Ste 40",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5700 Village Oaks Dr",
+                    "Ste 40",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+16699998969",
+            "display_phone": "(669) 999-8969",
+            "distance": 3622.4056342484537
+        },
+        {
+            "id": "nn8PuuVImVFCS9_6abL6zw",
+            "alias": "boba-pub-san-jose",
+            "name": "Boba Pub",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bHkRa-TeOUk9qm14sairWQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/boba-pub-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 502,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.25336,
+                "longitude": -121.9015
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1576 Branham Ln",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1576 Branham Ln",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14086228680",
+            "display_phone": "(408) 622-8680",
+            "distance": 5288.884076951435
+        },
+        {
+            "id": "HZFDC51aNd4RkOUlh28ZZQ",
+            "alias": "jasmine-kocha-san-jose-2",
+            "name": "Jasmine Kocha",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/s4LoT9i1xpa_-SBGJtWXjw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jasmine-kocha-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 76,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.26882,
+                "longitude": -121.90573
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3129 Meridian Ave",
+                "address2": "Ste 20",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95124",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3129 Meridian Ave",
+                    "Ste 20",
+                    "San Jose, CA 95124"
+                ]
+            },
+            "phone": "+14087843558",
+            "display_phone": "(408) 784-3558",
+            "distance": 5967.965088984057
+        },
+        {
+            "id": "HTaVHkxzOfqJ7kbnWUMn3A",
+            "alias": "tisane-san-jose",
+            "name": "Tisane",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OhIIZvRQgPnpxkrq_G8f2g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tisane-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 233,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "waffles",
+                    "title": "Waffles"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.330707,
+                "longitude": -121.810738
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2980 E Capitol Expy",
+                "address2": "Ste 50",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95148",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2980 E Capitol Expy",
+                    "Ste 50",
+                    "San Jose, CA 95148"
+                ]
+            },
+            "phone": "+14088339790",
+            "display_phone": "(408) 833-9790",
+            "distance": 9060.096756915429
+        },
+        {
+            "id": "MFPOP6zxOzOkKZFdB_RMdg",
+            "alias": "boba-fitt-san-jose-3",
+            "name": "Boba Fitt",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fD0NlXQG77whCUuYekSglg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/boba-fitt-san-jose-3?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 232,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.301382,
+                "longitude": -121.822888
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1051 E Capitol Expy",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1051 E Capitol Expy",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "+14086225184",
+            "display_phone": "(408) 622-5184",
+            "distance": 5546.295891046314
+        },
+        {
+            "id": "9Pd1AtEH17JO41zyoP-79w",
+            "alias": "sharetea-san-jose-9",
+            "name": "Sharetea",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Jxkd6fzn_MOJ7GEouqEWCQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sharetea-san-jose-9?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 124,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.251133,
+                "longitude": -121.805182
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "5627 Cottle Rd",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5627 Cottle Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14088094250",
+            "display_phone": "(408) 809-4250",
+            "distance": 3255.835038605891
+        },
+        {
+            "id": "uN2L_3jCXR3smvxIR7Ha4g",
+            "alias": "bloom-tea-house-san-jose-2",
+            "name": "Bloom Tea House",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GpD9EVfFfeYsIiO6Wqz3dw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bloom-tea-house-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.3243,
+                "longitude": -121.79793
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2850 Quimby Rd",
+                "address2": "Ste 125",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95148",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2850 Quimby Rd",
+                    "Ste 125",
+                    "San Jose, CA 95148"
+                ]
+            },
+            "phone": "+14086747399",
+            "display_phone": "(408) 674-7399",
+            "distance": 8769.454900330784
+        },
+        {
+            "id": "93s7v0S_4HZCMg3gmdiyZg",
+            "alias": "milk-ice-san-jose",
+            "name": "Milk + Ice",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Qi_PnCE8B3qTDtvmXZt-7w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/milk-ice-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 156,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.29054,
+                "longitude": -121.88058
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2390 Almaden Rd",
+                "address2": "Ste 30",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95125",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2390 Almaden Rd",
+                    "Ste 30",
+                    "San Jose, CA 95125"
+                ]
+            },
+            "phone": "+14088419134",
+            "display_phone": "(408) 841-9134",
+            "distance": 5336.471904375771
+        },
+        {
+            "id": "VkV85hclKc8saSU4UDNjQQ",
+            "alias": "pekoe-san-jose",
+            "name": "Pekoe",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ce6dy5tUbo3XxSUK6Qht0w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pekoe-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 2232,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3145584994999,
+                "longitude": -121.790188997984
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3276 S White Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95148",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3276 S White Rd",
+                    "San Jose, CA 95148"
+                ]
+            },
+            "phone": "+14088180696",
+            "display_phone": "(408) 818-0696",
+            "distance": 8152.876252858564
+        },
+        {
+            "id": "OCSJDsrairBDk45oEpulzw",
+            "alias": "meow-tea-san-jose",
+            "name": "Meow Tea",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oeOUVK4kRvDgJu7I6-jmUw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/meow-tea-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 343,
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.29956,
+                "longitude": -121.84016
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2857 Senter Rd",
+                "address2": "Ste G",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95111",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2857 Senter Rd",
+                    "Ste G",
+                    "San Jose, CA 95111"
+                ]
+            },
+            "phone": "+14086887589",
+            "display_phone": "(408) 688-7589",
+            "distance": 5080.004603979965
+        },
+        {
+            "id": "Hm8TBlyM_OJbZmykCEA2zw",
+            "alias": "tapioca-express-san-jose-4",
+            "name": "Tapioca Express",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/I8KvZ35_sXy5kzRKgh6X7Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tapioca-express-san-jose-4?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 265,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 37.249274269839,
+                "longitude": -121.83123597583
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "5681 Snell Ave",
+                "address2": "Ste 1",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5681 Snell Ave",
+                    "Ste 1",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14089722587",
+            "display_phone": "(408) 972-2587",
+            "distance": 1063.960061547644
+        },
+        {
+            "id": "kErcr5TJr_wepGiAg7_rQw",
+            "alias": "the-tea-zone-and-fruit-bar-san-jose-2",
+            "name": "The Tea Zone & Fruit Bar",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/229EcQlobAJgqfWKf7m_gw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-tea-zone-and-fruit-bar-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 146,
+            "categories": [
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.26135,
+                "longitude": -121.87564
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "4750 Almaden Expy",
+                "address2": "Ste 136",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4750 Almaden Expy",
+                    "Ste 136",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14087970707",
+            "display_phone": "(408) 797-0707",
+            "distance": 3108.864991360102
+        },
+        {
+            "id": "feyN2kDnRY9VEGhgiKt9ug",
+            "alias": "instabrew-san-jose",
+            "name": "InstaBrew",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dW-UG0OSzPs_SDBT30MxDg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/instabrew-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 41,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.33363,
+                "longitude": -121.88796
+            },
+            "transactions": [],
+            "location": {
+                "address1": "150 S 1st St",
+                "address2": "Ste 103",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95113",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "150 S 1st St",
+                    "Ste 103",
+                    "San Jose, CA 95113"
+                ]
+            },
+            "phone": "+14083525818",
+            "display_phone": "(408) 352-5818",
+            "distance": 9763.42563310274
+        },
+        {
+            "id": "uSn-TldX4zc824WFGzUclQ",
+            "alias": "i-tea-san-jose",
+            "name": "i-Tea",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zmJrL13D5CRga0FqRKl5eg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/i-tea-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 453,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3122516785924,
+                "longitude": -121.809769305956
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2936 Aborn Square Rd",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2936 Aborn Square Rd",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "+14086846968",
+            "display_phone": "(408) 684-6968",
+            "distance": 7088.604883580951
+        },
+        {
+            "id": "lVEpmxmY9pyci0IEX5-BMA",
+            "alias": "lucky-tea-san-jose-2",
+            "name": "Lucky Tea",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WzGW0Rs_4sQ4oIfu1PR3yQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lucky-tea-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 99,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.33055,
+                "longitude": -121.8564759
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "956 Story Rd",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "956 Story Rd",
+                    "San Jose, CA 95122"
+                ]
+            },
+            "phone": "+14083204954",
+            "display_phone": "(408) 320-4954",
+            "distance": 8601.062491663406
+        },
+        {
+            "id": "3kWnAUDFFrjhcfqKTO-4zA",
+            "alias": "tastea-san-jose-15",
+            "name": "Tastea",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BSxsq0hcB0N_2cx2aXOmsQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tastea-san-jose-15?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 214,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.314895,
+                "longitude": -121.793251
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3247 South White Rd",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95148",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3247 South White Rd",
+                    "San Jose, CA 95148"
+                ]
+            },
+            "phone": "+14085036364",
+            "display_phone": "(408) 503-6364",
+            "distance": 8070.186095931635
+        },
+        {
+            "id": "jCO19dJnlFRjWpgkS433RQ",
+            "alias": "ice3-creamery-san-jose",
+            "name": "Ice3 Creamery",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0OCYKsY_U1-06NHlP3kEFA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ice3-creamery-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 162,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.261355629226,
+                "longitude": -121.875829712629
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "4750 Almaden Expy",
+                "address2": "Ste 116",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4750 Almaden Expy",
+                    "Ste 116",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14087847462",
+            "display_phone": "(408) 784-7462",
+            "distance": 3124.999746189446
+        },
+        {
+            "id": "fGoPd2NBNLraHGVdar9GxA",
+            "alias": "happy-lemon-san-jose-5",
+            "name": "Happy Lemon",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KQhypZ2oO2XaiiGHJqQVUA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/happy-lemon-san-jose-5?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 488,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.309004,
+                "longitude": -121.813106
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3005 Silver Creek Rd",
+                "address2": "Ste 112",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3005 Silver Creek Rd",
+                    "Ste 112",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "+14086226786",
+            "display_phone": "(408) 622-6786",
+            "distance": 6640.775764357678
+        },
+        {
+            "id": "w7t1cHXtuzN7yIZjyG-dLA",
+            "alias": "cafe-and-tea-garden-san-jose-3",
+            "name": "Cafe & Tea Garden",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/P5lLmVcSlkuh_Z1fgPdD-Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cafe-and-tea-garden-san-jose-3?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "shavedice",
+                    "title": "Shaved Ice"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.3193986871,
+                "longitude": -121.823766712
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2569 S King Rd",
+                "address2": "C5",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2569 S King Rd",
+                    "C5",
+                    "San Jose, CA 95122"
+                ]
+            },
+            "phone": "+16692347044",
+            "display_phone": "(669) 234-7044",
+            "distance": 7464.473474022666
+        },
+        {
+            "id": "5TiTdGocnzuQnkx6zDp6dw",
+            "alias": "shincha-tea-san-jose-3",
+            "name": "Shincha Tea",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rpaTqtXoV7LfI8tNmL5AEg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shincha-tea-san-jose-3?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 360,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3191772792232,
+                "longitude": -121.827041554833
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2487 Alvin Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2487 Alvin Ave",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "+14085319385",
+            "display_phone": "(408) 531-9385",
+            "distance": 7383.6868485494415
+        },
+        {
+            "id": "NSFdiaznr7-h5Hp5t3GPqQ",
+            "alias": "passion-t-snacks-and-desserts-san-jose",
+            "name": "Passion-T Snacks and Desserts",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qk-IFxxsZgYsFKYIs0mUkg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/passion-t-snacks-and-desserts-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 468,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3105199,
+                "longitude": -121.84997
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2266 Senter Rd",
+                "address2": "Ste 128",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95112",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2266 Senter Rd",
+                    "Ste 128",
+                    "San Jose, CA 95112"
+                ]
+            },
+            "phone": "+14085640220",
+            "display_phone": "(408) 564-0220",
+            "distance": 6349.81176829837
+        },
+        {
+            "id": "pSRNe93ZZMQk7vM5TvbBXw",
+            "alias": "oooh-boba-tea-and-desserts-san-jose-2",
+            "name": "OooH Boba Tea and Desserts",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tFq0v4TYINPZGKfnoaQZyA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/oooh-boba-tea-and-desserts-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 101,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.309513,
+                "longitude": -121.809931
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1783 E Capitol Expy",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1783 E Capitol Expy",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "+14083001428",
+            "display_phone": "(408) 300-1428",
+            "distance": 6811.8694517836175
+        },
+        {
+            "id": "QdHZbivwpr0XdefhXIE7eg",
+            "alias": "rainbow-tea-house-san-jose",
+            "name": "Rainbow Tea House",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-YLTQ_usQXCiHx0Dbtkt2A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rainbow-tea-house-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 24,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.278888,
+                "longitude": -121.83388
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "4100 Monterey Hwy",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95111",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4100 Monterey Hwy",
+                    "San Jose, CA 95111"
+                ]
+            },
+            "phone": "+14086293392",
+            "display_phone": "(408) 629-3392",
+            "distance": 2874.2085923314503
+        },
+        {
+            "id": "J62JXyOPA9g8a02OtsBMcA",
+            "alias": "soyful-desserts-san-jose-8",
+            "name": "Soyful Desserts",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/T1WNLKWOiuSR-txMI4LJFg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/soyful-desserts-san-jose-8?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 233,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3090745900201,
+                "longitude": -121.814426575475
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3005 Silver Creek Rd",
+                "address2": "Ste 170",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3005 Silver Creek Rd",
+                    "Ste 170",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 6604.2758068103185
+        },
+        {
+            "id": "2EsShWc1SpkMiAtScqNHLg",
+            "alias": "izumi-matcha-san-jose",
+            "name": "Izumi Matcha",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oygG2Afv6GD9yGQFH1N7dA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/izumi-matcha-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 170,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.3084490872182,
+                "longitude": -121.81388415159
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3005 Silver Creek Rd",
+                "address2": "Ste 142",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3005 Silver Creek Rd",
+                    "Ste 142",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 6557.558514494852
+        },
+        {
+            "id": "YnxCCpifPOHg0YHp-oIE0A",
+            "alias": "tea-lyfe-drinks-san-jose-3",
+            "name": "Tea Lyfe Drinks",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cJQuFLSCdxtcPiSGWvb62A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tea-lyfe-drinks-san-jose-3?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 931,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3323443189417,
+                "longitude": -121.857742217231
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "989 Story Rd",
+                "address2": "Ste 8018",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "989 Story Rd",
+                    "Ste 8018",
+                    "San Jose, CA 95122"
+                ]
+            },
+            "phone": "+14086387657",
+            "display_phone": "(408) 638-7657",
+            "distance": 8844.231253014235
+        },
+        {
+            "id": "EwRn6VVZ8Fctp-HbkSAkUQ",
+            "alias": "soyful-desserts-san-jose-2",
+            "name": "Soyful Desserts",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EUGBzcsAwbUd76ar3L8_fw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/soyful-desserts-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 680,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3319875706985,
+                "longitude": -121.856774212303
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "999 Story Rd",
+                "address2": "Unit 9048",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "999 Story Rd",
+                    "Unit 9048",
+                    "San Jose, CA 95122"
+                ]
+            },
+            "phone": "+14082169026",
+            "display_phone": "(408) 216-9026",
+            "distance": 8791.77407186308
+        },
+        {
+            "id": "xVwzdjPm62OgYuTmNnM-ww",
+            "alias": "bubbly-san-jose-4",
+            "name": "Bubbly",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xQGDKPVP9AgH1efXXB0n0w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bubbly-san-jose-4?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 447,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.32229,
+                "longitude": -121.82405
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1816 Tully Rd",
+                "address2": "Ste 166",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1816 Tully Rd",
+                    "Ste 166",
+                    "San Jose, CA 95122"
+                ]
+            },
+            "phone": "+14086247170",
+            "display_phone": "(408) 624-7170",
+            "distance": 7775.575734881669
+        },
+        {
+            "id": "tBh_ac1nGOXN1uSy4fPjDw",
+            "alias": "urban-tea-cafe-san-jose-3",
+            "name": "Urban Tea Cafe",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KNjXluzUe2_v4r8e751wTg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/urban-tea-cafe-san-jose-3?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 149,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.31624,
+                "longitude": -121.83263
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1310 Tully Rd",
+                "address2": "Ste 108",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1310 Tully Rd",
+                    "Ste 108",
+                    "San Jose, CA 95122"
+                ]
+            },
+            "phone": "+14084772399",
+            "display_phone": "(408) 477-2399",
+            "distance": 6973.036782105451
+        },
+        {
+            "id": "JW0wpa7AO8NRl4Z7fF_VWg",
+            "alias": "teahee-san-jose",
+            "name": "Teahee",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1OM3-nhXLMbSnXhBLe1q_w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/teahee-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 307,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3311487640944,
+                "longitude": -121.85737667523
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "979 Story Rd",
+                "address2": "Ste 7012",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "979 Story Rd",
+                    "Ste 7012",
+                    "San Jose, CA 95122"
+                ]
+            },
+            "phone": "+14086425978",
+            "display_phone": "(408) 642-5978",
+            "distance": 8707.846225555617
+        },
+        {
+            "id": "gCbzyFjHOosYV0XdRh1IAQ",
+            "alias": "teaspoon-campbell-5",
+            "name": "Teaspoon",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dzY71ZWRW9Ypmk1EkJDEuA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/teaspoon-campbell-5?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 110,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "shavedice",
+                    "title": "Shaved Ice"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2883397054415,
+                "longitude": -121.934029334463
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1875 S Bascom Ave",
+                "address2": "Ste 160",
+                "address3": null,
+                "city": "Campbell",
+                "zip_code": "95008",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1875 S Bascom Ave",
+                    "Ste 160",
+                    "Campbell, CA 95008"
+                ]
+            },
+            "phone": "+14086280409",
+            "display_phone": "(408) 628-0409",
+            "distance": 9017.578048572486
+        },
+        {
+            "id": "ChNMuY5c4ERpZR89oXEuTw",
+            "alias": "ding-tea-house-san-jose-2",
+            "name": "Ding Tea House",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zv6XxBUh7sApqbqQg4EC7g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ding-tea-house-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 137,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.29279,
+                "longitude": -121.83314
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3151 Senter Rd",
+                "address2": "Ste 120",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95111",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3151 Senter Rd",
+                    "Ste 120",
+                    "San Jose, CA 95111"
+                ]
+            },
+            "phone": "+14083001232",
+            "display_phone": "(408) 300-1232",
+            "distance": 4411.317888280605
+        },
+        {
+            "id": "ljeGcG0aTuL0ZAfhfNpy4w",
+            "alias": "tea-villa-san-jose",
+            "name": "Tea Villa",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/41QHLxmYAeOqL0S9Z0fjNw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tea-villa-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 169,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.32511,
+                "longitude": -121.8132
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2200 Eastridge Lp",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2200 Eastridge Lp",
+                    "San Jose, CA 95122"
+                ]
+            },
+            "phone": "+14082231823",
+            "display_phone": "(408) 223-1823",
+            "distance": 8321.140476971766
+        },
+        {
+            "id": "XS-hR5LEKdVjhOBb1HN1-g",
+            "alias": "t4-san-jose-4",
+            "name": "T4",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kGl7uy6ylyCvU4edJySJ-g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/t4-san-jose-4?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 97,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.21072,
+                "longitude": -121.84616
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "6950 Almaden Expy",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95120",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6950 Almaden Expy",
+                    "San Jose, CA 95120"
+                ]
+            },
+            "phone": "+14088312622",
+            "display_phone": "(408) 831-2622",
+            "distance": 4845.731112252791
+        },
+        {
+            "id": "s-3mL5DKsGg8ZfrOdjIiQA",
+            "alias": "tapioca-express-san-jose-8",
+            "name": "Tapioca Express",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2Ulof3QiuaYQgUyvXnos0w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tapioca-express-san-jose-8?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 547,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3030374782512,
+                "longitude": -121.864601250072
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "81 Curtner Ave",
+                "address2": "Ste 40",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95112",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "81 Curtner Ave",
+                    "Ste 40",
+                    "San Jose, CA 95112"
+                ]
+            },
+            "phone": "+14089990128",
+            "display_phone": "(408) 999-0128",
+            "distance": 5832.116858412788
+        },
+        {
+            "id": "WFogVWYGUmI-K3pdbCXwPg",
+            "alias": "85-c-bakery-cafe-san-jose-10",
+            "name": "85\u00b0C Bakery Cafe",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K4OLo_MdxWGQNfKDy0SE4Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/85-c-bakery-cafe-san-jose-10?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 346,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "cakeshop",
+                    "title": "Patisserie/Cake Shop"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 37.275588,
+                "longitude": -121.852164
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "541 W Capitol Expy",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95136",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "541 W Capitol Expy",
+                    "San Jose, CA 95136"
+                ]
+            },
+            "phone": "+14082658585",
+            "display_phone": "(408) 265-8585",
+            "distance": 2644.9737391946646
+        },
+        {
+            "id": "k6G6EMUaDEMZ03ZSG4U9Tw",
+            "alias": "tea-alley-san-jose",
+            "name": "Tea Alley",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UUeR-vhYL-5Xqb0jCtl-Iw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tea-alley-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 117,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "taiwanese",
+                    "title": "Taiwanese"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.33552,
+                "longitude": -121.88961
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "40 S 1st St",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95113",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "40 S 1st St",
+                    "San Jose, CA 95113"
+                ]
+            },
+            "phone": "+14083201276",
+            "display_phone": "(408) 320-1276",
+            "distance": 10025.620867735499
+        },
+        {
+            "id": "cMAaIxvaz4UI45iY-fpKcQ",
+            "alias": "teazu-san-jose",
+            "name": "Teazu",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HWUc6gAex2vvWoxKLuw8PQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/teazu-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 216,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.3323285394546,
+                "longitude": -121.858550940763
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "969 Story Rd",
+                "address2": "Ste 6033",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "969 Story Rd",
+                    "Ste 6033",
+                    "San Jose, CA 95122"
+                ]
+            },
+            "phone": "+14088823999",
+            "display_phone": "(408) 882-3999",
+            "distance": 8854.18178827535
+        },
+        {
+            "id": "6x5kLtECMm-R7EtPeOC_HA",
+            "alias": "teasociety-san-jose",
+            "name": "Teasociety",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GXVvT-0iw0yIj31kVNpduA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/teasociety-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 680,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.306154683674,
+                "longitude": -121.810519318524
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1658 E Capitol Expy",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1658 E Capitol Expy",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "+14084400793",
+            "display_phone": "(408) 440-0793",
+            "distance": 6444.17119826927
+        },
+        {
+            "id": "k5xCuNNwdfpYdsu5PObAOw",
+            "alias": "voila-bakery-and-tea-san-jose",
+            "name": "Voila Bakery And Tea",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aI8ypqiQaDdsy9dZzZViXw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/voila-bakery-and-tea-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 63,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.308977,
+                "longitude": -121.814501
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3005 Silver Creek Rd",
+                "address2": "Ste 174",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3005 Silver Creek Rd",
+                    "Ste 174",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "+14084408186",
+            "display_phone": "(408) 440-8186",
+            "distance": 6591.766161620769
+        }
+    ],
+    "total": 197,
+    "region": {
+        "center": {
+            "longitude": -121.84181213378906,
+            "latitude": 37.25382226726822
+        }
+    }
+}

@@ -1,0 +1,2155 @@
+{
+    "businesses": [
+        {
+            "id": "6IKQzAh8PwZ52k3Sj9ZdDg",
+            "alias": "oros-thai-chicken-and-rice-san-jose",
+            "name": "Oros Thai Chicken & Rice",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ab3uLg_0s7B2Ce9Gh_p3zA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/oros-thai-chicken-and-rice-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 91,
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.249168,
+                "longitude": -121.831525
+            },
+            "transactions": [],
+            "location": {
+                "address1": "5663 Snell Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5663 Snell Ave",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14086201200",
+            "display_phone": "(408) 620-1200",
+            "distance": 1028.496168658758
+        },
+        {
+            "id": "nI2_CPBcjlsgueILuGSyxg",
+            "alias": "taob-pit-stop-san-jose",
+            "name": "TAOB Pit Stop",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/34IT-RpTu2JEhmcmuw3q3g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taob-pit-stop-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 392,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "latin",
+                    "title": "Latin American"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2500031119146,
+                "longitude": -121.832915184271
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "484 Blossom Hill Rd",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "484 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+16692347377",
+            "display_phone": "(669) 234-7377",
+            "distance": 894.6724362297132
+        },
+        {
+            "id": "UO6hdCoOQxsMyF74noWnlw",
+            "alias": "noobowl-san-jose-2",
+            "name": "NooBowl",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4IChfwv6Ro1_KQb3RDGQ3Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/noobowl-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 30,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2514160468869,
+                "longitude": -121.863486484133
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "925 Blossom Hill Rd",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "925 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1936.9267103438824
+        },
+        {
+            "id": "pegl1ANL2v862WC8XyTP1w",
+            "alias": "lucys-mexican-grill-san-jose",
+            "name": "Lucy's Mexican Grill",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6v7uvZGJTEff9e864BJJKA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lucys-mexican-grill-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 223,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2510583935572,
+                "longitude": -121.842297801692
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "615 Blossom Hill Rd",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "615 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14082271430",
+            "display_phone": "(408) 227-1430",
+            "distance": 310.32001520732297
+        },
+        {
+            "id": "-lCMfds0tz26DcgJLUS9WQ",
+            "alias": "cafe-do\u00f1a-maria-san-jose-2",
+            "name": "Cafe Do\u00f1a Maria",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oz7YDbGlY_Wti71xfrk53A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cafe-do%C3%B1a-maria-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 38,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.2510226,
+                "longitude": -121.8339646
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "480 Blossom Hill Rd",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "480 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14083631213",
+            "display_phone": "(408) 363-1213",
+            "distance": 870.5007940940671
+        },
+        {
+            "id": "2t8-Oc3Ki6JPtq_axFFa-Q",
+            "alias": "what-the-cup-san-jose",
+            "name": "What The Cup",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xh4R3pxIVCvwTO3JvG2O7A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/what-the-cup-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 537,
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "shavedice",
+                    "title": "Shaved Ice"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.2540453107379,
+                "longitude": -121.831238865852
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "5469 Snell Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5469 Snell Ave",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+16692347000",
+            "display_phone": "(669) 234-7000",
+            "distance": 936.1332730608746
+        },
+        {
+            "id": "BMirfMrQB-NDHwef_m6kDw",
+            "alias": "sizzling-lunch-san-jose-2",
+            "name": "Sizzling Lunch",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/E6_jrpTbm_1AzrQ2qmiAeg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sizzling-lunch-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 151,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.262108,
+                "longitude": -121.877293
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1114 Branham Ln",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1114 Branham Ln",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14088264058",
+            "display_phone": "(408) 826-4058",
+            "distance": 3275.049784954599
+        },
+        {
+            "id": "da7WoQZDbG8xY1uaXWGXmg",
+            "alias": "juicy-burger-san-jose-2",
+            "name": "Juicy Burger",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/91nIWTYVYeHDQ5Ou7PJyEw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/juicy-burger-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 250,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2503059555759,
+                "longitude": -121.844327076124
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "630 Blossom Hill Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "630 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14086291770",
+            "display_phone": "(408) 629-1770",
+            "distance": 449.91770543498944
+        },
+        {
+            "id": "xTGBbaEEgm4pB5DgN88qZQ",
+            "alias": "the-funny-farm-kitchen-san-jose-2",
+            "name": "The Funny Farm Kitchen",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VYhYuYFqXUROM5EqPlUktg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-funny-farm-kitchen-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 272,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2268228,
+                "longitude": -121.7763899
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "7028 Santa Teresa Blvd",
+                "address2": null,
+                "address3": "The Sideline Sports Bar",
+                "city": "San Jose",
+                "zip_code": "95139",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "7028 Santa Teresa Blvd",
+                    "The Sideline Sports Bar",
+                    "San Jose, CA 95139"
+                ]
+            },
+            "phone": "+14086819501",
+            "display_phone": "(408) 681-9501",
+            "distance": 6567.157124129418
+        },
+        {
+            "id": "_us5qOY9AafKtmBdje6mIg",
+            "alias": "1-chinese-kitchen-san-jose-2",
+            "name": "#1 Chinese Kitchen",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/adf3DMhxMQCncOoLaVdYVg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/1-chinese-kitchen-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 374,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.2521682579759,
+                "longitude": -121.831224678574
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "5585 Snell Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5585 Snell Ave",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14083638989",
+            "display_phone": "(408) 363-8989",
+            "distance": 954.9500131130941
+        },
+        {
+            "id": "sB8tZwBbkwf8cBn6fCycEQ",
+            "alias": "tugboat-fish-and-chips-san-jose",
+            "name": "Tugboat Fish and Chips",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/141qrqRURawfN1jyur_JAQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tugboat-fish-and-chips-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 311,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "fishnchips",
+                    "title": "Fish & Chips"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.249283306765,
+                "longitude": -121.845374292424
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "658 Blossom Hill Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "658 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14082258983",
+            "display_phone": "(408) 225-8983",
+            "distance": 595.0928190696037
+        },
+        {
+            "id": "fBiBfe9fIOHOqG_VYpYetw",
+            "alias": "teriyaki-dude-san-jose-2",
+            "name": "Teriyaki Dude",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/al0iZsSM0uH51drwvYYB7Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/teriyaki-dude-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 148,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2793716047399,
+                "longitude": -121.833986797345
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "4112 Monterey Rd",
+                "address2": "Ste C",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95111",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4112 Monterey Rd",
+                    "Ste C",
+                    "San Jose, CA 95111"
+                ]
+            },
+            "phone": "+14086298626",
+            "display_phone": "(408) 629-8626",
+            "distance": 2924.1311285450447
+        },
+        {
+            "id": "lkOfmxelDi6ov7BGka8gjg",
+            "alias": "miyakko-japanese-cuisine-san-jose-2",
+            "name": "Miyakko Japanese Cuisine",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/c8QcyqMlPhROUxPiQyJNUg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/miyakko-japanese-cuisine-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 86,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2493054254248,
+                "longitude": -121.845617169591
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "664 Blossom Hill Rd",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "664 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14082240600",
+            "display_phone": "(408) 224-0600",
+            "distance": 604.7117171884498
+        },
+        {
+            "id": "pZLPehBpQ0g7Zu222arh1Q",
+            "alias": "masa-ramen-noodle-bar-san-jose-3",
+            "name": "Masa Ramen Noodle Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/65dv5CIYhTv0-0BWRjhuNw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/masa-ramen-noodle-bar-san-jose-3?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 596,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.2488359136903,
+                "longitude": -121.857955913819
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "864 Blossom Hill Rd",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "864 Blossom Hill Rd",
+                    "Ste A",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+16692456272",
+            "display_phone": "(669) 245-6272",
+            "distance": 1532.6854011833007
+        },
+        {
+            "id": "O9wdHNG3XvRgEHHHkwhO3A",
+            "alias": "the-art-of-bbq-san-jose",
+            "name": "The Art of Bbq",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HOwhoLIwdFjoiL-W7LofWA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-art-of-bbq-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 273,
+            "categories": [
+                {
+                    "alias": "catering",
+                    "title": "Caterers"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.250066,
+                "longitude": -121.832921
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "484 Blossom Hill Rd",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "484 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14085458552",
+            "display_phone": "(408) 545-8552",
+            "distance": 890.9194362495041
+        },
+        {
+            "id": "iAhafYWSB48norpZnNZGCg",
+            "alias": "hanul-korean-san-jose",
+            "name": "Hanul Korean",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2CnmBrnnJ_MOnMVU967klQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hanul-korean-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 206,
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2382011413574,
+                "longitude": -121.831901550293
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "6041 Snell Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6041 Snell Ave",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14086132760",
+            "display_phone": "(408) 613-2760",
+            "distance": 1947.4648900693153
+        },
+        {
+            "id": "x0DX2qsBTikXJSDRVex15Q",
+            "alias": "jubba-restaurant-san-jose",
+            "name": "Jubba Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YtLH719gaarmx2iOO1shFg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jubba-restaurant-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 1029,
+            "categories": [
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "somali",
+                    "title": "Somali"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.257396,
+                "longitude": -121.860752
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "5330 Terner Way",
+                "address2": "Ste 40",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95136",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5330 Terner Way",
+                    "Ste 40",
+                    "San Jose, CA 95136"
+                ]
+            },
+            "phone": "+14084401504",
+            "display_phone": "(408) 440-1504",
+            "distance": 1722.7253671640167
+        },
+        {
+            "id": "6nLVJRYmAP2t0D4fhJlvXg",
+            "alias": "royal-sun-shave-ice-san-jose",
+            "name": "Royal Sun Shave Ice",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0s9IFwLsLhT4WBfmFAsf-g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/royal-sun-shave-ice-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "shavedice",
+                    "title": "Shaved Ice"
+                },
+                {
+                    "alias": "catering",
+                    "title": "Caterers"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.2620392281411,
+                "longitude": -121.83749899193
+            },
+            "transactions": [],
+            "location": {
+                "address1": "",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95002",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "San Jose, CA 95002"
+                ]
+            },
+            "phone": "+14085069083",
+            "display_phone": "(408) 506-9083",
+            "distance": 990.2164407000174
+        },
+        {
+            "id": "CWb2lApN-MvcmzdPp_9jpA",
+            "alias": "tacos-el-compa-taqueria-san-jose",
+            "name": "Tacos El Compa Taqueria",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SK499yusOyfh6UvfIkODrA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tacos-el-compa-taqueria-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 490,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2473719369747,
+                "longitude": -121.885735362849
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1321 Blossom Hill Rd",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1321 Blossom Hill Rd",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14086228035",
+            "display_phone": "(408) 622-8035",
+            "distance": 3953.279760463145
+        },
+        {
+            "id": "USxOexfcA4VwyLyc43k01w",
+            "alias": "sgd-tofu-house-san-jose-2",
+            "name": "SGD Tofu House",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/K9sAsfcU9QV4d2sz-Yxy9w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sgd-tofu-house-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 491,
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.249537154827,
+                "longitude": -121.856635569708
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "832 Blossom Hill Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "832 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14082278583",
+            "display_phone": "(408) 227-8583",
+            "distance": 1395.8549850051443
+        },
+        {
+            "id": "FFqbMw3pfjH1bqWiZ-pTtA",
+            "alias": "l-and-l-hawaiian-barbecue-san-jose-12",
+            "name": "L&L Hawaiian Barbecue",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_mQMGUB-megJEwOj4rfKxg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/l-and-l-hawaiian-barbecue-san-jose-12?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 21,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "hawaiian",
+                    "title": "Hawaiian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.248239,
+                "longitude": -121.802587
+            },
+            "transactions": [],
+            "location": {
+                "address1": "5730 Cottle Rd",
+                "address2": "Ste 120",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5730 Cottle Rd",
+                    "Ste 120",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14082272277",
+            "display_phone": "(408) 227-2277",
+            "distance": 3521.8368114274153
+        },
+        {
+            "id": "mYd2pUZ7BHc0WiB7dBjx6Q",
+            "alias": "pho-24-san-jose-5",
+            "name": "Pho 24",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/V5QNzXW877T2DEI0EW3NmA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pho-24-san-jose-5?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 119,
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.25113,
+                "longitude": -121.85841
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "5592 Santa Teresa Blvd",
+                "address2": "Ste B",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5592 Santa Teresa Blvd",
+                    "Ste B",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14082243888",
+            "display_phone": "(408) 224-3888",
+            "distance": 1494.4849000926993
+        },
+        {
+            "id": "_F4RpcTKdLJQM8yvsIWgsw",
+            "alias": "aqui-cal-mex-san-jose-2",
+            "name": "Aqui Cal-Mex",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gGtULz5PHS1PIyoAdg16lA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/aqui-cal-mex-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 645,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2494282610838,
+                "longitude": -121.831015896619
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "5679 Snell Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5679 Snell Ave",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14083623456",
+            "display_phone": "(408) 362-3456",
+            "distance": 1073.2341105797636
+        },
+        {
+            "id": "R64oI99fRNFlzFtoxCuSHA",
+            "alias": "chick-fil-a-san-jose-9",
+            "name": "Chick-fil-A",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XanidCCOOEwl2Zfh3mP5sw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chick-fil-a-san-jose-9?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 82,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.2499954053911,
+                "longitude": -121.877732420797
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1162 Blossom Hill Rd",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1162 Blossom Hill Rd",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14089787705",
+            "display_phone": "(408) 978-7705",
+            "distance": 3207.621015052599
+        },
+        {
+            "id": "-Mwdc0km-UJLw9vUcTtYYQ",
+            "alias": "bamboo-y-kitchen-san-jose-4",
+            "name": "Bamboo Y Kitchen",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eipmLLLxNhEA7lg6x0EngQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bamboo-y-kitchen-san-jose-4?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 64,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.249163,
+                "longitude": -121.831512
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "5665 Snell Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5665 Snell Ave",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+15102502063",
+            "display_phone": "(510) 250-2063",
+            "distance": 1055.9136343034247
+        },
+        {
+            "id": "cCKea_ufuGcxI14fhe84vw",
+            "alias": "cha-cha-sushi-san-jose",
+            "name": "Cha Cha Sushi",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1iDW-VMPsXsTZsLjfZYaQw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cha-cha-sushi-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 3223,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2758545677726,
+                "longitude": -121.852952245369
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "547 W Capitol Expy",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95136",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "547 W Capitol Expy",
+                    "San Jose, CA 95136"
+                ]
+            },
+            "phone": "+14082652416",
+            "display_phone": "(408) 265-2416",
+            "distance": 2640.7882127456187
+        },
+        {
+            "id": "_p1vD73hUvseZDmNTaG0QQ",
+            "alias": "sanraku-san-jose",
+            "name": "Sanraku",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vQC1k5S0E14737vfysAE9Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sanraku-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 380,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2515249524977,
+                "longitude": -121.863821485188
+            },
+            "transactions": [
+                "pickup",
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "925 Blossom Hill Rd",
+                "address2": "",
+                "address3": "Westfield Oakridge",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "925 Blossom Hill Rd",
+                    "Westfield Oakridge",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14083632110",
+            "display_phone": "(408) 363-2110",
+            "distance": 1964.6844997190794
+        },
+        {
+            "id": "4qmnFPPGPxH_zcBo-uot1A",
+            "alias": "my-kitchen-san-jose",
+            "name": "My-Kitchen",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OJYUyzSzIOH_AAlz-Vvw4Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/my-kitchen-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 45,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2519492982049,
+                "longitude": -121.829902024473
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "445 Blossom Hill Rd",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "445 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14082265122",
+            "display_phone": "(408) 226-5122",
+            "distance": 1074.5150093150048
+        },
+        {
+            "id": "YuGmYLFnHCjPvcsTNA7D8w",
+            "alias": "oros-thai-restaurant-san-jose",
+            "name": "Oros Thai Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_BvS-G_YG4Qm6Zxf8RuyJg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/oros-thai-restaurant-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 539,
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.236274,
+                "longitude": -121.8048176
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "6177 Santa Teresa Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6177 Santa Teresa Blvd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14088097878",
+            "display_phone": "(408) 809-7878",
+            "distance": 3811.929157005783
+        },
+        {
+            "id": "op4Pg3lK1qlIGzvfVyhI7w",
+            "alias": "back-a-yard-san-jose-3",
+            "name": "Back A Yard",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9bS8K8J7BCKN-WEL9z-Zfg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/back-a-yard-san-jose-3?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 334,
+            "categories": [
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2999767103452,
+                "longitude": -121.824104
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1011 Capitol Expy",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1011 Capitol Expy",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "+14089606330",
+            "display_phone": "(408) 960-6330",
+            "distance": 5365.975657061894
+        },
+        {
+            "id": "tstoPDu0AS_7B9-Q0VXpaA",
+            "alias": "taqueria-el-coral-san-jose-3",
+            "name": "Taqueria El Coral",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qdffpUzz8-p8Gt_jjFaMVw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taqueria-el-coral-san-jose-3?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 59,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2366851,
+                "longitude": -121.8308739
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "5899 Santa Teresa Blvd",
+                "address2": "Ste 109",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5899 Santa Teresa Blvd",
+                    "Ste 109",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14085784077",
+            "display_phone": "(408) 578-4077",
+            "distance": 2200.776273131993
+        },
+        {
+            "id": "ei1G6vb67ortjD0GubPOnA",
+            "alias": "bistro-tupaz-san-jose-2",
+            "name": "Bistro Tupaz",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cI9tiaCFTKgdP0zVEWlnAA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bistro-tupaz-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 465,
+            "categories": [
+                {
+                    "alias": "modern_european",
+                    "title": "Modern European"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2366851,
+                "longitude": -121.8308739
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "5899 Santa Teresa Blvd",
+                "address2": "Ste 101",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5899 Santa Teresa Blvd",
+                    "Ste 101",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14085785860",
+            "display_phone": "(408) 578-5860",
+            "distance": 2200.776273131993
+        },
+        {
+            "id": "zsQ6XNqWq-c9mrK0qkjjSg",
+            "alias": "shiki-japanese-restaurant-san-jose",
+            "name": "Shiki Japanese Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yYDReyk_PMZVhIvUA9atAA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shiki-japanese-restaurant-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 415,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "soup",
+                    "title": "Soup"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.236479,
+                "longitude": -121.803063
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "6229 Santa Teresa Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95119",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6229 Santa Teresa Blvd",
+                    "San Jose, CA 95119"
+                ]
+            },
+            "phone": "+14082256454",
+            "display_phone": "(408) 225-6454",
+            "distance": 3934.9256858704293
+        },
+        {
+            "id": "v5q7IydFoH_VneyaPFfdIQ",
+            "alias": "champa-kitchen-san-jose",
+            "name": "Champa Kitchen",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CnB4iGnGXi4L2vdiXyNA3A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/champa-kitchen-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 96,
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.253361666,
+                "longitude": -121.79706383
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "5560 Monterey Rd",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95138",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5560 Monterey Rd",
+                    "San Jose, CA 95138"
+                ]
+            },
+            "phone": "+14089125419",
+            "display_phone": "(408) 912-5419",
+            "distance": 3956.2726961819094
+        },
+        {
+            "id": "3FpL-b_srpW8J15001yU2w",
+            "alias": "bonchon-almaden-san-jose-2",
+            "name": "Bonchon - Almaden",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/A3b9aqj3N5nWOxqRIutxrg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bonchon-almaden-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 638,
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.245479133742,
+                "longitude": -121.888971659061
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1375 Blossom Hill Rd",
+                "address2": "Ste 66",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1375 Blossom Hill Rd",
+                    "Ste 66",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14086774893",
+            "display_phone": "(408) 677-4893",
+            "distance": 4276.019511033952
+        },
+        {
+            "id": "AF64tcDNOE9shHNHC9hOfw",
+            "alias": "pho-la-san-jose",
+            "name": "Pho LA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ilAjkyR04rawyRlB7MdNFA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pho-la-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 264,
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "soup",
+                    "title": "Soup"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2380180354242,
+                "longitude": -121.832337589827
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "6055 Snell Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6055 Snell Ave",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14083637998",
+            "display_phone": "(408) 363-7998",
+            "distance": 1947.2047947305214
+        },
+        {
+            "id": "mVTd_mqoNNyFwJeINuwlDw",
+            "alias": "hubs-coffee-san-jose",
+            "name": "Hub's  Coffee",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aSIReaUSuK6FroqZuMeuwA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hubs-coffee-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 144,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2500908692612,
+                "longitude": -121.844339291171
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "630 Blossom Hill Rd",
+                "address2": "Ste 50",
+                "address3": null,
+                "city": "San  Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "630 Blossom Hill Rd",
+                    "Ste 50",
+                    "San  Jose, CA 95123"
+                ]
+            },
+            "phone": "+14086228304",
+            "display_phone": "(408) 622-8304",
+            "distance": 471.3629599425038
+        },
+        {
+            "id": "M2Hh1vQSHvox0L6HSgi63Q",
+            "alias": "moveable-feast-southside-san-jose",
+            "name": "Moveable Feast: Southside",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lLIeuHVU4Fui7UtVOEVN5Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/moveable-feast-southside-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 57,
+            "categories": [
+                {
+                    "alias": "streetvendors",
+                    "title": "Street Vendors"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.251562,
+                "longitude": -121.840979
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": null,
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14088006825",
+            "display_phone": "(408) 800-6825",
+            "distance": 261.9240578812574
+        },
+        {
+            "id": "PhYIGIW6syW8UleirAmLSQ",
+            "alias": "cj-bbq-san-jose",
+            "name": "CJ BBQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OND-LtiTqso1Wq5FQAZElA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cj-bbq-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 289,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.25195,
+                "longitude": -121.83199
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "461 Blossom Hill Rd",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "461 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14082299612",
+            "display_phone": "(408) 229-9612",
+            "distance": 862.9559852520619
+        },
+        {
+            "id": "ueDHKr5ELmh2z7H0DFK02w",
+            "alias": "thai-grata-san-jose",
+            "name": "Thai Grata",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Kjsu7WIrrSgSadsMUiaBcg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/thai-grata-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 643,
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.2498588562012,
+                "longitude": -121.856727600098
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "846 Blossom Hill Rd",
+                "address2": "Ste C",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "846 Blossom Hill Rd",
+                    "Ste C",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14082248600",
+            "display_phone": "(408) 224-8600",
+            "distance": 1433.6778987627408
+        },
+        {
+            "id": "FE5YyGQPQMydireTwtMQfQ",
+            "alias": "nick-the-greek-san-jose-2",
+            "name": "Nick The Greek",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/aMoHRwO-CK4RKOXTLQVbvg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nick-the-greek-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 385,
+            "categories": [
+                {
+                    "alias": "greek",
+                    "title": "Greek"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.25767,
+                "longitude": -121.87712
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "5019 Almaden Expy",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5019 Almaden Expy",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14086228720",
+            "display_phone": "(408) 622-8720",
+            "distance": 3119.2989915100884
+        },
+        {
+            "id": "SacjM5laxwNnXTpWdggoOg",
+            "alias": "thai-love-you-san-jose",
+            "name": "Thai Love You",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1OW5RFHxaQAao3YTt6ylkg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/thai-love-you-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 335,
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.23033,
+                "longitude": -121.88501
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "6055 Meridian Ave",
+                "address2": "Ste 100",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95120",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6055 Meridian Ave",
+                    "Ste 100",
+                    "San Jose, CA 95120"
+                ]
+            },
+            "phone": "+14082688499",
+            "display_phone": "(408) 268-8499",
+            "distance": 4632.953023622965
+        },
+        {
+            "id": "Y27ZclrGd1TnjZjRMJK7rw",
+            "alias": "la-victoria-taqueria-san-jose-3",
+            "name": "La Victoria Taqueria",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6B5i_EMyu40daoxg3LxBXA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-victoria-taqueria-san-jose-3?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 1445,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 37.258071,
+                "longitude": -121.876697
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "5015 Almaden Expy",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5015 Almaden Expy",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14089787666",
+            "display_phone": "(408) 978-7666",
+            "distance": 3123.3971853811113
+        },
+        {
+            "id": "oBb96NmDL-Eh9-OX7Lz1pQ",
+            "alias": "poki-bowl-san-jose-3",
+            "name": "Poki Bowl",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hmfYu2gcbPvQPCRgiNCp6Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/poki-bowl-san-jose-3?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 1080,
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2613711099839,
+                "longitude": -121.876094578571
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "4750 Almaden Expy",
+                "address2": "Ste 100",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4750 Almaden Expy",
+                    "Ste 100",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+16692477654",
+            "display_phone": "(669) 247-7654",
+            "distance": 3148.047667245529
+        },
+        {
+            "id": "Y40PICLfP8GypNa0lgDA-A",
+            "alias": "milk-tea-lab-san-jose",
+            "name": "Milk Tea Lab",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/v9pis2jTgyMhU56_qtcggQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/milk-tea-lab-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 52,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.253381,
+                "longitude": -121.903175
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1601 Branham Ln",
+                "address2": "Spc 3",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1601 Branham Ln",
+                    "Spc 3",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14084402208",
+            "display_phone": "(408) 440-2208",
+            "distance": 5431.232828517206
+        },
+        {
+            "id": "jj9Lq7ISyOLZ7C3So8LZkQ",
+            "alias": "taqueria-el-coral-san-jose",
+            "name": "Taqueria El Coral",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Tg1WDLv8oix6_riZz0nA2A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taqueria-el-coral-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 375,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.274095497207,
+                "longitude": -121.850564181805
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "426 W Capitol Expy",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95136",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "426 W Capitol Expy",
+                    "San Jose, CA 95136"
+                ]
+            },
+            "phone": "+14082292190",
+            "display_phone": "(408) 229-2190",
+            "distance": 2383.618363373325
+        },
+        {
+            "id": "UYAP3_BD1vXUKWtCl_pWiw",
+            "alias": "happy-lemon-san-jose-16",
+            "name": "Happy Lemon",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5VzYOYv8wREkRA7i5a58Xg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/happy-lemon-san-jose-16?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 81,
+            "categories": [
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.250214,
+                "longitude": -121.8442963
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "630 Blossom Hill Rd",
+                "address2": "Ste 30",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "630 Blossom Hill Rd",
+                    "Ste 30",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14088419499",
+            "display_phone": "(408) 841-9499",
+            "distance": 457.51627163873746
+        },
+        {
+            "id": "95tlD3LE0M_vLLwjcmoNjA",
+            "alias": "high-five-pizza-san-jose-2",
+            "name": "High Five Pizza",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CCBNSC1ookXXyeNwi4q9Yg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/high-five-pizza-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 726,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.26715,
+                "longitude": -121.83224
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "171 Branham Ln",
+                "address2": "Ste 1",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95136",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "171 Branham Ln",
+                    "Ste 1",
+                    "San Jose, CA 95136"
+                ]
+            },
+            "phone": "+14086296800",
+            "display_phone": "(408) 629-6800",
+            "distance": 1689.460011063601
+        },
+        {
+            "id": "RmhnyX4a3yiYxUNP_ADeSg",
+            "alias": "big-e-cafe-san-jose",
+            "name": "Big E Cafe",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ncIPTGGpLr1V-NnWe7QcCg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/big-e-cafe-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 478,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "empanadas",
+                    "title": "Empanadas"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2528086428985,
+                "longitude": -121.908845901489
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1683 Branham Ln",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1683 Branham Ln",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14089789040",
+            "display_phone": "(408) 978-9040",
+            "distance": 5934.054268503104
+        },
+        {
+            "id": "t1xK1JfUZjVjgSsFFHSqDA",
+            "alias": "buffalo-wild-wings-san-jose-2",
+            "name": "Buffalo Wild Wings",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/y2ShrFzKlLll8l6W0pamLw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/buffalo-wild-wings-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 907,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 37.2506515263537,
+                "longitude": -121.856687030377
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "859 Blossom Hill Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "859 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14083631690",
+            "display_phone": "(408) 363-1690",
+            "distance": 1362.9483635326003
+        }
+    ],
+    "total": 2100,
+    "region": {
+        "center": {
+            "longitude": -121.84181213378906,
+            "latitude": 37.25382226726822
+        }
+    }
+}

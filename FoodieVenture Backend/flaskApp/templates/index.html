@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+	<link href="{{ url_for('static', filename='styles/style.css') }}" rel="stylesheet">
+	<!-- <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/style.css') }}"> -->
+	<!-- <script type="text/javascript" src="main.js"></script> -->
+
+	<title>Home Page</title>
+
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<center>
+			<strong class="title">FoodieVenture</strong>
+		</center>
+<!-- 		<center><table cellspacing="75" class="">
+			<tr>
+				<td>
+					<div class="rotatingImage">
+						<img src="../static/bubbleTea.jpg">
+					</div>
+				</td>
+
+				<td>
+					<center>
+						<strong class="title">FoodieVenture</strong>
+					</center>
+				</td>
+
+				<td>
+					<div class="rotatingImage">
+						<img src="../static/bubbleTea.jpg">
+					</div>
+				</td>
+			</tr>
+		</table></center> -->
+
+	</head>
+	<!-- bgcolor="#FFBAA3" (light pink)-->
+	<body bgcolor="#FFBAA3">
+		<div class="userInfo">
+			<strong>Enter Location</strong>
+			<form method="POST" action="/results">
+				<div>
+					<input type="text" name="Location">
+				</div>
+				<input class="btn btn-primary" type="submit" name="submit">
+			</form>
+		</div>
+		<div>
+			{% block DisplayRestaurants %}
+			{% endblock DisplayRestaurants %}
+		</div>
+
+		<center class="outerAlert" id="alert"><div class="alert">
+		  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+		  This is an alert box.
+	  	</div></center>
+
+		<center><table class="">
+			<tr>
+				<td>
+					<table class="">
+						<tr>
+							<td>
+								<form method="POST">
+									<div>
+										<input type="submit" name="breakfast" src="../static/breakfastButtonImage.jpg" class="Button" value="Breakfast">
+									</div>
+								</form>
+							</td>
+
+							<td>
+								<form method="POST">
+									<div>
+										<input type="submit" name="lunch" src="../static/lunchButtonImage.png" class="Button" value="Lunch">
+									</div>
+								</form>
+							</td>
+							<td>
+								<form method="POST">
+									<div>
+										<input type="submit" name="dinner" src="../static/dinnerButtonImage.jpg" class="Button" value="Dinner">
+									</div>
+								</form>
+							</td>
+						</tr>
+
+						<tr>
+							<td>
+								<form method="POST">
+									<div>
+										<input type="submit" name="coffee" src="../static/coffeeButtonImage.jpg" class="Button" value="Coffee">
+									</div>
+								</form>
+							</td>
+							<td>
+								<form method="POST">
+									<div>
+										<input type="submit" name="milkTea" src="../static/bobaButtonImage.jpg" class="Button" value="Boba">
+									</div>
+								</form>
+							</td>
+							<td>
+								<form method="POST">
+									<div>
+										<input type="submit" name="dessert" src="../static/dessertButtonImage.png" class="Button" value="Dessert">
+									</div>
+								</form>
+							</td>
+						</tr>
+					</table>
+				</td>
+
+				<td class="UserList">
+					<table>
+						<h4>List</h4>
+						<p>{{userChoices['choices'][0]}}</p>
+						<p>{{userChoices['choices'][1]}}</p>
+						<p>{{userChoices['choices'][2]}}</p>
+						<p>{{userChoices['choices'][3]}}</p>
+						<p>{{userChoices['choices'][4]}}</p>
+						<p>{{userChoices['choices'][5]}}</p>
+					</table>
+
+					<script type="text/javascript">
+					function displayUserAlert() {
+						var x = document.getElementById("alert");
+					  	if (x.style.display === "none" && '{{canGenerateResults}}') {
+					    	x.style.display = "block";
+					  	} else {
+					    	x.style.display = "none";
+					  	}
+					}
+					</script>
+
+					<form method="POST" action="/results">
+						<button type="button" name="generateButton" formmethod="post" onclick="displayUserAlert()">Generate!</button>
+					</form>
+				</td>
+			</tr>
+		</table></center>
+	</body>
+</html>

@@ -1,0 +1,2138 @@
+{
+    "businesses": [
+        {
+            "id": "F-F86-l45uE_gNBFo0jirg",
+            "alias": "moonbeans-coffee-san-jose-4",
+            "name": "MoonBean's Coffee",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4N5idaYjtDBDKrHs-jZ1Sg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/moonbeans-coffee-san-jose-4?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 450,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.236653,
+                "longitude": -121.802203
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "6219 Santa Teresa Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95119",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6219 Santa Teresa Blvd",
+                    "San Jose, CA 95119"
+                ]
+            },
+            "phone": "+14082818128",
+            "display_phone": "(408) 281-8128",
+            "distance": 3992.1629588832634
+        },
+        {
+            "id": "mVTd_mqoNNyFwJeINuwlDw",
+            "alias": "hubs-coffee-san-jose",
+            "name": "Hub's  Coffee",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aSIReaUSuK6FroqZuMeuwA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hubs-coffee-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 144,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2500908692612,
+                "longitude": -121.844339291171
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "630 Blossom Hill Rd",
+                "address2": "Ste 50",
+                "address3": null,
+                "city": "San  Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "630 Blossom Hill Rd",
+                    "Ste 50",
+                    "San  Jose, CA 95123"
+                ]
+            },
+            "phone": "+14086228304",
+            "display_phone": "(408) 622-8304",
+            "distance": 471.3629599425038
+        },
+        {
+            "id": "0MWvTbCt5ogM0zgW-zgWkQ",
+            "alias": "blvd-coffee-san-jose",
+            "name": "Blvd Coffee",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xOSaetpSejgGe0kBqJ4rqA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/blvd-coffee-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 158,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "creperies",
+                    "title": "Creperies"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2301875997384,
+                "longitude": -121.884539740758
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "6055 Meridian Ave",
+                "address2": "Ste 20",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95120",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6055 Meridian Ave",
+                    "Ste 20",
+                    "San Jose, CA 95120"
+                ]
+            },
+            "phone": "+14082688218",
+            "display_phone": "(408) 268-8218",
+            "distance": 4605.678520667333
+        },
+        {
+            "id": "9nguk6zx3SaRP1Ds3NxA2w",
+            "alias": "pop-up-tea-coffee-and-snacks-san-jose",
+            "name": "Pop Up Tea, Coffee & Snacks",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/k2vDLlPyrPAlgqgWDLZakQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pop-up-tea-coffee-and-snacks-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 533,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.267076,
+                "longitude": -121.833671
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "185 Branham Ln",
+                "address2": "Ste 2",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95136",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "185 Branham Ln",
+                    "Ste 2",
+                    "San Jose, CA 95136"
+                ]
+            },
+            "phone": "+14084404675",
+            "display_phone": "(408) 440-4675",
+            "distance": 1640.4336575834952
+        },
+        {
+            "id": "MWPXp3Hdf34EqKCPgweHMw",
+            "alias": "barefoot-coffee-campbell-campbell-2",
+            "name": "Barefoot Coffee Campbell",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uJICV-X094P9beTqZ1MZUw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/barefoot-coffee-campbell-campbell-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 530,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2908639,
+                "longitude": -121.9320961
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1819 S Bascom Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Campbell",
+                "zip_code": "95008",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1819 S Bascom Ave",
+                    "Campbell, CA 95008"
+                ]
+            },
+            "phone": "+14083405026",
+            "display_phone": "(408) 340-5026",
+            "distance": 8988.070385491426
+        },
+        {
+            "id": "ewKRZ6-2FG82XMCFt7e_PQ",
+            "alias": "peets-coffee-san-jose-15",
+            "name": "Peet's Coffee",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/aPwGj2rvzXqNeTGPGNQvyg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/peets-coffee-san-jose-15?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 22,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.23762,
+                "longitude": -121.83238
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "6061 Snell Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6061 Snell Ave",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14082250546",
+            "display_phone": "(408) 225-0546",
+            "distance": 1984.755681437464
+        },
+        {
+            "id": "xBFaGGkVVW6KmV-X8VaN8g",
+            "alias": "starbucks-san-jose-49",
+            "name": "Starbucks",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AjaNZ2fB0QQ2z1bcpUXUag/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/starbucks-san-jose-49?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 144,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.249098,
+                "longitude": -121.857873
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "854 Blossom Hill Road",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "854 Blossom Hill Road",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14082247574",
+            "display_phone": "(408) 224-7574",
+            "distance": 1515.4972119114525
+        },
+        {
+            "id": "G_kNDp6zC39woiEyUsc0ag",
+            "alias": "tleaf-teapresso-san-jose-3",
+            "name": "Tleaf Teapresso",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TYRLr9ylnqn-cFyXIHaBow/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tleaf-teapresso-san-jose-3?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 275,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.248688599353,
+                "longitude": -121.857970789389
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "860 Blossom Hill Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "860 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1539.91099438007
+        },
+        {
+            "id": "Bou63Gdz_pT0xXsT8vcgaQ",
+            "alias": "peets-coffee-san-jose-8",
+            "name": "Peet's Coffee",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cvsJGWMJ77meR5pWyY4ypw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/peets-coffee-san-jose-8?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 135,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2499375778171,
+                "longitude": -121.87635844012
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1110 Blossom Hill Rd",
+                "address2": "Ste 20",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1110 Blossom Hill Rd",
+                    "Ste 20",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14082564584",
+            "display_phone": "(408) 256-4584",
+            "distance": 3088.022364121824
+        },
+        {
+            "id": "nQcTHHFqVQONRgupK44RsQ",
+            "alias": "ijava-cafe-san-jose-3",
+            "name": "iJava Cafe",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/H2qO8sfm5KVhM5ug1-32KQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ijava-cafe-san-jose-3?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 274,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.273704,
+                "longitude": -121.879397
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3315 Almaden Expy",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3315 Almaden Expy",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14089125609",
+            "display_phone": "(408) 912-5609",
+            "distance": 4019.81785283424
+        },
+        {
+            "id": "Syr_S1MZndZAoIf4aMPpNQ",
+            "alias": "crema-coffee-roasting-san-jose-2",
+            "name": "Crema Coffee Roasting",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gS0_mVwrHHaWpNKUwnRH1g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/crema-coffee-roasting-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 1094,
+            "categories": [
+                {
+                    "alias": "coffeeroasteries",
+                    "title": "Coffee Roasteries"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3313599,
+                "longitude": -121.9082
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "950 The Alameda",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95126",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "950 The Alameda",
+                    "San Jose, CA 95126"
+                ]
+            },
+            "phone": "+14082955690",
+            "display_phone": "(408) 295-5690",
+            "distance": 10430.669645572174
+        },
+        {
+            "id": "FkEJ9EO_Fj8RMV-rmlqMTA",
+            "alias": "academic-coffee-san-jose-3",
+            "name": "Academic Coffee",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RG2dM5HjukSBpynbmOvnug/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/academic-coffee-san-jose-3?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 314,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.3291649780216,
+                "longitude": -121.88400666966
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "499 S 2nd St",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95113",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "499 S 2nd St",
+                    "San Jose, CA 95113"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 9174.905966892222
+        },
+        {
+            "id": "eXprR2i_W8UKMmsYYbZFQQ",
+            "alias": "philz-coffee-san-jose-2",
+            "name": "Philz Coffee",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gKyzJmgR_XzLkV1HzoOUWQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/philz-coffee-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 2150,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.333609,
+                "longitude": -121.884901
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "118 Paseo De San Antonio Walk",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95112",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "118 Paseo De San Antonio Walk",
+                    "San Jose, CA 95112"
+                ]
+            },
+            "phone": "+14089714212",
+            "display_phone": "(408) 971-4212",
+            "distance": 9656.016211414855
+        },
+        {
+            "id": "afE2ME37B2Sj_idmfTZ4pQ",
+            "alias": "veros-coffee-bar-san-jose",
+            "name": "Vero's Coffee Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xFwVlnyuZxffVN9Bwqep5Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/veros-coffee-bar-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 192,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.3302466659043,
+                "longitude": -121.886280366177
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "387 S 1st St",
+                "address2": "Ste 126",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95113",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "387 S 1st St",
+                    "Ste 126",
+                    "San Jose, CA 95113"
+                ]
+            },
+            "phone": "+14088884463",
+            "display_phone": "(408) 888-4463",
+            "distance": 9364.308193567815
+        },
+        {
+            "id": "dKRAISnpZ356QqvbinNVyg",
+            "alias": "n7-draft-tea-coffee-san-jose",
+            "name": "N7 draft tea + coffee",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RxmoHHOhIS0IK5QkiI62Gg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/n7-draft-tea-coffee-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 153,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3094745100416,
+                "longitude": -121.813864283734
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3005 Silver Creek Rd",
+                "address2": "Ste 184",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3005 Silver Creek Rd",
+                    "Ste 184",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "+16692344964",
+            "display_phone": "(669) 234-4964",
+            "distance": 6663.960266964925
+        },
+        {
+            "id": "EbMe_sIg1Lkrv-9RazB7rw",
+            "alias": "paris-baguette-san-jose-8",
+            "name": "Paris Baguette",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uMsuT9qpbBBx6hsK9ErOsw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/paris-baguette-san-jose-8?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 125,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "cakeshop",
+                    "title": "Patisserie/Cake Shop"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2622208449837,
+                "longitude": -121.877203881741
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1112 Branham Ln",
+                "address2": null,
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1112 Branham Ln",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14084408445",
+            "display_phone": "(408) 440-8445",
+            "distance": 3268.4902021764055
+        },
+        {
+            "id": "Ns4Us4VPoEs5aowIcrrP0g",
+            "alias": "gabis-petite-cafe-san-jose",
+            "name": "Gabi's Petite Cafe",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LdT2zy_1X5UNBDCoSZzqZg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gabis-petite-cafe-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 289,
+            "categories": [
+                {
+                    "alias": "creperies",
+                    "title": "Creperies"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2497501,
+                "longitude": -121.8042049
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "5685 Cottle Rd",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5685 Cottle Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14082298887",
+            "display_phone": "(408) 229-8887",
+            "distance": 3333.0334396434264
+        },
+        {
+            "id": "kruv5jzonUtsutTkpJW0iA",
+            "alias": "elvas-coffee-stop-san-jose",
+            "name": "Elva's Coffee Stop",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/V7NkLSJqqi-rt2aPAizTWg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/elvas-coffee-stop-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 221,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2906225400023,
+                "longitude": -121.887941236771
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2206 Lincoln Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95125",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2206 Lincoln Ave",
+                    "San Jose, CA 95125"
+                ]
+            },
+            "phone": "+14082692245",
+            "display_phone": "(408) 269-2245",
+            "distance": 5779.711952444325
+        },
+        {
+            "id": "S0VBBKmgAweGQoEveqVHIA",
+            "alias": "friends-coffee-and-tea-san-jose",
+            "name": "Friends Coffee & Tea",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UDIeBv6tk6P0CTbzjfs2gw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/friends-coffee-and-tea-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 39,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "specialed",
+                    "title": "Special Education"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.30686,
+                "longitude": -121.93233
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1029 S Bascom Ave",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95128",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1029 S Bascom Ave",
+                    "San Jose, CA 95128"
+                ]
+            },
+            "phone": "+14087258811",
+            "display_phone": "(408) 725-8811",
+            "distance": 9950.567738992824
+        },
+        {
+            "id": "WFogVWYGUmI-K3pdbCXwPg",
+            "alias": "85-c-bakery-cafe-san-jose-10",
+            "name": "85\u00b0C Bakery Cafe",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K4OLo_MdxWGQNfKDy0SE4Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/85-c-bakery-cafe-san-jose-10?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 346,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "cakeshop",
+                    "title": "Patisserie/Cake Shop"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 37.275588,
+                "longitude": -121.852164
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "541 W Capitol Expy",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95136",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "541 W Capitol Expy",
+                    "San Jose, CA 95136"
+                ]
+            },
+            "phone": "+14082658585",
+            "display_phone": "(408) 265-8585",
+            "distance": 2644.9737391946646
+        },
+        {
+            "id": "7IeNBZodKmN_4-2hqYP3dg",
+            "alias": "voltaire-coffee-house-san-jose",
+            "name": "Voltaire Coffee House",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/igUgkLYI-_HWcEJh0ibxLQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/voltaire-coffee-house-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 291,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.32981,
+                "longitude": -121.88677
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "360 S Market St",
+                "address2": "Ste 80",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95113",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "360 S Market St",
+                    "Ste 80",
+                    "San Jose, CA 95113"
+                ]
+            },
+            "phone": "+14084579929",
+            "display_phone": "(408) 457-9929",
+            "distance": 9390.154267543752
+        },
+        {
+            "id": "mLZXUVABNG0TevySSm-gzA",
+            "alias": "chromatic-coffee-san-jose-4",
+            "name": "Chromatic Coffee",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Z5ej8vROdP0K71qK25P7nw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chromatic-coffee-san-jose-4?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "coffeeroasteries",
+                    "title": "Coffee Roasteries"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.32,
+                "longitude": -121.9082
+            },
+            "transactions": [],
+            "location": {
+                "address1": "460 Lincoln Ave",
+                "address2": "Ste 10",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95126",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "460 Lincoln Ave",
+                    "Ste 10",
+                    "San Jose, CA 95126"
+                ]
+            },
+            "phone": "+14082178583",
+            "display_phone": "(408) 217-8583",
+            "distance": 9434.314125391758
+        },
+        {
+            "id": "tyr85X7PWdx54LOVzLzjAw",
+            "alias": "hannah-san-jose",
+            "name": "Hannah",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5aHx-V4yQWuJGimSH0TgDw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hannah-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 1105,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.33065,
+                "longitude": -121.9051
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "754 The Alameda",
+                "address2": "Ste 80",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95126",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "754 The Alameda",
+                    "Ste 80",
+                    "San Jose, CA 95126"
+                ]
+            },
+            "phone": "+14089711207",
+            "display_phone": "(408) 971-1207",
+            "distance": 10301.117364108248
+        },
+        {
+            "id": "k901qMpKUjNES5mFJOComA",
+            "alias": "sweet-rendezvous-san-jose",
+            "name": "Sweet Rendezvous",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/y5PLjuNMQ7JqQoC0h8hSmw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sweet-rendezvous-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 565,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2492499194819,
+                "longitude": -121.845885111639
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "668 Blossom Hill Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "668 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14082255004",
+            "display_phone": "(408) 225-5004",
+            "distance": 623.2579178457437
+        },
+        {
+            "id": "UDVMEVrMm0P2_s8kyG4bfQ",
+            "alias": "philz-coffee-campbell-campbell",
+            "name": "Philz Coffee - Campbell",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hVUay37j2JSRdiMGsLnsig/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/philz-coffee-campbell-campbell?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 130,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.287541,
+                "longitude": -121.931355
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1976 S Bascom Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Campbell",
+                "zip_code": "95008",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1976 S Bascom Ave",
+                    "Campbell, CA 95008"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 8765.701541995222
+        },
+        {
+            "id": "qdqww189WHQGaKkx0OADKQ",
+            "alias": "keystone-coffee-company-san-jose",
+            "name": "Keystone Coffee Company",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0IxWYcQi8_AwI5LCla0SzA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/keystone-coffee-company-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "coffeeroasteries",
+                    "title": "Coffee Roasteries"
+                },
+                {
+                    "alias": "wholesalers",
+                    "title": "Wholesalers"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.313404083252,
+                "longitude": -121.847862243652
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2230 Will Wool Dr",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95112",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2230 Will Wool Dr",
+                    "San Jose, CA 95112"
+                ]
+            },
+            "phone": "+14089982221",
+            "display_phone": "(408) 998-2221",
+            "distance": 6635.058475736591
+        },
+        {
+            "id": "9irgSE9KtPHlAL9Tm7I84g",
+            "alias": "tastea-san-jose-4",
+            "name": "Tastea",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/U3tyrcUJZrdydKAPCtijCQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tastea-san-jose-4?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 25,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.27517,
+                "longitude": -121.85158
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "509 W Capitol Expy",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95136",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "509 W Capitol Expy",
+                    "San Jose, CA 95136"
+                ]
+            },
+            "phone": "+14086224615",
+            "display_phone": "(408) 622-4615",
+            "distance": 2526.1340707701315
+        },
+        {
+            "id": "dtusIFrHtD0nG816aRnDow",
+            "alias": "swifty-sweets-san-jose-2",
+            "name": "Swifty Sweets",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DdDKd-nZIi2mOdM-9w1ZdQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/swifty-sweets-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.25,
+                "longitude": -121.85
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95153",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "San Jose, CA 95153"
+                ]
+            },
+            "phone": "+18554794389",
+            "display_phone": "(855) 479-4389",
+            "distance": 840.1364046155259
+        },
+        {
+            "id": "uN2L_3jCXR3smvxIR7Ha4g",
+            "alias": "bloom-tea-house-san-jose-2",
+            "name": "Bloom Tea House",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GpD9EVfFfeYsIiO6Wqz3dw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bloom-tea-house-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.3243,
+                "longitude": -121.79793
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2850 Quimby Rd",
+                "address2": "Ste 125",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95148",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2850 Quimby Rd",
+                    "Ste 125",
+                    "San Jose, CA 95148"
+                ]
+            },
+            "phone": "+14086747399",
+            "display_phone": "(408) 674-7399",
+            "distance": 8769.454900330784
+        },
+        {
+            "id": "aZwZNxS53wV9eLRhftKy0A",
+            "alias": "aloha-coffee-and-pure-water-san-jose",
+            "name": "Aloha Coffee & Pure Water",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BOXVrup7iwTdrM5VdAB1NQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/aloha-coffee-and-pure-water-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 33,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.26279,
+                "longitude": -121.87942
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1179 Branham Ln",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1179 Branham Ln",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14082671317",
+            "display_phone": "(408) 267-1317",
+            "distance": 3468.0239503268494
+        },
+        {
+            "id": "RmhnyX4a3yiYxUNP_ADeSg",
+            "alias": "big-e-cafe-san-jose",
+            "name": "Big E Cafe",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ncIPTGGpLr1V-NnWe7QcCg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/big-e-cafe-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 478,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "empanadas",
+                    "title": "Empanadas"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2528086428985,
+                "longitude": -121.908845901489
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1683 Branham Ln",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1683 Branham Ln",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14089789040",
+            "display_phone": "(408) 978-9040",
+            "distance": 5934.054268503104
+        },
+        {
+            "id": "SD9PqHlV4Vn3rCTq8yrEoA",
+            "alias": "dunkin-donuts-san-jose-4",
+            "name": "Dunkin' Donuts",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/h_ZUvVpvpt4-rR7InxDodA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dunkin-donuts-san-jose-4?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 215,
+            "categories": [
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 37.2526607964854,
+                "longitude": -121.831240206957
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "5519 Snell Ave",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5519 Snell Ave",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14084402143",
+            "display_phone": "(408) 440-2143",
+            "distance": 944.5654814679407
+        },
+        {
+            "id": "-Pn-QDl3AIST31hXwQ1lFw",
+            "alias": "oasis-cafe-the-san-jose",
+            "name": "Oasis Cafe The",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/C-GBhK_iKj4yN5Nq6vVfcA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/oasis-cafe-the-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.22158,
+                "longitude": -121.86818
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "6445 Camden Ave",
+                "address2": null,
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95120",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6445 Camden Ave",
+                    "San Jose, CA 95120"
+                ]
+            },
+            "phone": "+14089275400",
+            "display_phone": "(408) 927-5400",
+            "distance": 4326.593745141898
+        },
+        {
+            "id": "vTDzcDSweDrc2E7kSoWhFQ",
+            "alias": "evergreen-coffee-san-jose",
+            "name": "Evergreen Coffee",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B_sOHkGVvki8u123XzCtHw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/evergreen-coffee-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 244,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bagels",
+                    "title": "Bagels"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.314225,
+                "longitude": -121.773613
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "4075 Evergreen Village Sq",
+                "address2": "Ste 150",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95135",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4075 Evergreen Village Sq",
+                    "Ste 150",
+                    "San Jose, CA 95135"
+                ]
+            },
+            "phone": "+14087287422",
+            "display_phone": "(408) 728-7422",
+            "distance": 9028.62593613049
+        },
+        {
+            "id": "Jx9ZSBJWC6Algo2_ocwaBQ",
+            "alias": "starbucks-san-jose-94",
+            "name": "Starbucks",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ahwj8KysOXkPVtJzC14J9w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/starbucks-san-jose-94?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 103,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 37.238117,
+                "longitude": -121.830947
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "6009 Snell Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6009 Snell Avenue",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14089721857",
+            "display_phone": "(408) 972-1857",
+            "distance": 1993.6545522127142
+        },
+        {
+            "id": "0ydARrtaQGLIjYAbUAOuMg",
+            "alias": "starbucks-san-jose-42",
+            "name": "Starbucks",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VSKHiijnu-51Iq-4B_CU8w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/starbucks-san-jose-42?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 217,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 37.274881,
+                "longitude": -121.857555
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "605 West Capitol Expressway",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95136",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "605 West Capitol Expressway",
+                    "San Jose, CA 95136"
+                ]
+            },
+            "phone": "+14084484369",
+            "display_phone": "(408) 448-4369",
+            "distance": 2724.715614144216
+        },
+        {
+            "id": "UYAP3_BD1vXUKWtCl_pWiw",
+            "alias": "happy-lemon-san-jose-16",
+            "name": "Happy Lemon",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5VzYOYv8wREkRA7i5a58Xg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/happy-lemon-san-jose-16?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 81,
+            "categories": [
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.250214,
+                "longitude": -121.8442963
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "630 Blossom Hill Rd",
+                "address2": "Ste 30",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "630 Blossom Hill Rd",
+                    "Ste 30",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14088419499",
+            "display_phone": "(408) 841-9499",
+            "distance": 457.51627163873746
+        },
+        {
+            "id": "9qiWRFH9Va7Lznnw1o_U3Q",
+            "alias": "shake-tea-san-jose",
+            "name": "Shake Tea",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SdZPtAOnX8ra-e5vR7wxoQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shake-tea-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 116,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.252379,
+                "longitude": -121.86477601632
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "925 Blossom Hill Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "925 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+16692347498",
+            "display_phone": "(669) 234-7498",
+            "distance": 2038.805154468443
+        },
+        {
+            "id": "yJ5HCkTf3d2eCY9E4Lp8AQ",
+            "alias": "o-henrys-donut-shop-san-jose",
+            "name": "O'Henry's Donut Shop",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Tqk7gwcCjgHi8kFsL5ZHVA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/o-henrys-donut-shop-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 116,
+            "categories": [
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.249151,
+                "longitude": -121.804483
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "5709 Cottle Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5709 Cottle Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14089729137",
+            "display_phone": "(408) 972-9137",
+            "distance": 3344.5643805311224
+        },
+        {
+            "id": "trg4LRKhdzx_zO_Qo_a13A",
+            "alias": "cafe-paradise-san-jose",
+            "name": "Cafe Paradise",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/k81e5Zwq1NLCENlmxO7Z1Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cafe-paradise-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 86,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "hookah_bars",
+                    "title": "Hookah Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.30065,
+                "longitude": -121.85764
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2400 Monterey Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95111",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2400 Monterey Rd",
+                    "San Jose, CA 95111"
+                ]
+            },
+            "phone": "+14085640735",
+            "display_phone": "(408) 564-0735",
+            "distance": 5408.837279319641
+        },
+        {
+            "id": "XbnRgVhJrwtZiT3eJ_zjNQ",
+            "alias": "cafe-lift-san-jose",
+            "name": "Cafe Lift",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fgtpO7_RCGMns-JFL1psxA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cafe-lift-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "musicvenues",
+                    "title": "Music Venues"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.2493270198091,
+                "longitude": -121.776021707981
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "5883 Eden Park Pl",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95138",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5883 Eden Park Pl",
+                    "San Jose, CA 95138"
+                ]
+            },
+            "phone": "+14082817900",
+            "display_phone": "(408) 281-7900",
+            "distance": 5844.487300900914
+        },
+        {
+            "id": "u3Dj9a2Cj4DQleKD7WY13A",
+            "alias": "fresh-donuts-san-jose",
+            "name": "Fresh Donuts",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/avofV7kPUxVGbw02QV5Rqg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fresh-donuts-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 70,
+            "categories": [
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bagels",
+                    "title": "Bagels"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2661056518555,
+                "longitude": -121.865188598633
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "4478 Pearl Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95136",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4478 Pearl Ave",
+                    "San Jose, CA 95136"
+                ]
+            },
+            "phone": "+14082646817",
+            "display_phone": "(408) 264-6817",
+            "distance": 2510.025059548202
+        },
+        {
+            "id": "4izgFvHR3q-2Q42T9n0-ww",
+            "alias": "forager-tasting-room-and-eatery-san-jose",
+            "name": "Forager Tasting Room & Eatery",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ldpLOa_vxl20gL_DSj883g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/forager-tasting-room-and-eatery-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 170,
+            "categories": [
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.32983,
+                "longitude": -121.88542
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "420 S 1st St",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95172",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "420 S 1st St",
+                    "San Jose, CA 95172"
+                ]
+            },
+            "phone": "+14088312433",
+            "display_phone": "(408) 831-2433",
+            "distance": 9292.247722570659
+        },
+        {
+            "id": "AUln9KVFAHi2na4P5-HC3Q",
+            "alias": "kandoo-patisseire-and-cafe-san-jose",
+            "name": "Kandoo patisseire & cafe",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rmk07JrTXk-czaksEPDdwA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kandoo-patisseire-and-cafe-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 36,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "customcakes",
+                    "title": "Custom Cakes"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.27308,
+                "longitude": -121.93295
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2686 Union Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95124",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2686 Union Ave",
+                    "San Jose, CA 95124"
+                ]
+            },
+            "phone": "+14085599000",
+            "display_phone": "(408) 559-9000",
+            "distance": 8279.776799896254
+        },
+        {
+            "id": "ZITZWJFih5yQdK0LWdDmbg",
+            "alias": "z-coffee-san-jose",
+            "name": "Z-Coffee",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BqwU_zmjba4JHNFCD9T0dA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/z-coffee-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.310427,
+                "longitude": -121.916959
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1520 Southwest Expy",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95126",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1520 Southwest Expy",
+                    "San Jose, CA 95126"
+                ]
+            },
+            "phone": "+14088996987",
+            "display_phone": "(408) 899-6987",
+            "distance": 9155.272231190198
+        },
+        {
+            "id": "lWgwYHeGyA9XoCeHwMMgWg",
+            "alias": "happy-donut-san-jose",
+            "name": "Happy Donut",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cNEd0Jh6_SMcsAHagDd10w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/happy-donut-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 165,
+            "categories": [
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2837381,
+                "longitude": -121.8335127
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3849 7 Trees Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95111",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3849 7 Trees Blvd",
+                    "San Jose, CA 95111"
+                ]
+            },
+            "phone": "+14086291992",
+            "display_phone": "(408) 629-1992",
+            "distance": 3397.892755160182
+        },
+        {
+            "id": "hIt1JbvEr-Wo2LIQ-4l7jg",
+            "alias": "maple-leaf-donuts-san-jose-3",
+            "name": "Maple Leaf Donuts",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-vsGSMSEddbJQZt_JQhkUw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/maple-leaf-donuts-san-jose-3?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 108,
+            "categories": [
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2203,
+                "longitude": -121.86201
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "6469 Almaden Expy",
+                "address2": "Ste 70",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95120",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6469 Almaden Expy",
+                    "Ste 70",
+                    "San Jose, CA 95120"
+                ]
+            },
+            "phone": "+14082685503",
+            "display_phone": "(408) 268-5503",
+            "distance": 4163.619812818212
+        },
+        {
+            "id": "LUU61RfTlkJcshyzIMKu6g",
+            "alias": "milohas-san-jose",
+            "name": "Milohas",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/p6_oWKiEYrEm2XsLgGxGqg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/milohas-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 606,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "colombian",
+                    "title": "Colombian"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2556595,
+                "longitude": -121.8970034
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "4662 Meridian Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4662 Meridian Ave",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14087843736",
+            "display_phone": "(408) 784-3736",
+            "distance": 4889.012579259883
+        },
+        {
+            "id": "YztUDlV-W0Mt2VJs4wXCXg",
+            "alias": "starbucks-san-jose-60",
+            "name": "Starbucks",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/e2UXSMkuUSbL7T8VWqc2cg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/starbucks-san-jose-60?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 129,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 37.2507438,
+                "longitude": -121.865853
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "967 Blossom Hill Road",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "967 Blossom Hill Road",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14082812886",
+            "display_phone": "(408) 281-2886",
+            "distance": 2155.18182602003
+        },
+        {
+            "id": "ykPKeM6upBQKN2VOAcSs_w",
+            "alias": "the-giving-pies-san-jose",
+            "name": "The Giving Pies",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GPlSMqTa8GyqA4iJwVp2uQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-giving-pies-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 35,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.25323,
+                "longitude": -121.82418
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14084750563",
+            "display_phone": "(408) 475-0563",
+            "distance": 2200.0515086004625
+        }
+    ],
+    "total": 663,
+    "region": {
+        "center": {
+            "longitude": -121.84181213378906,
+            "latitude": 37.25382226726822
+        }
+    }
+}

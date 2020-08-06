@@ -1,0 +1,2219 @@
+{
+    "businesses": [
+        {
+            "id": "k901qMpKUjNES5mFJOComA",
+            "alias": "sweet-rendezvous-san-jose",
+            "name": "Sweet Rendezvous",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/y5PLjuNMQ7JqQoC0h8hSmw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sweet-rendezvous-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 565,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2492499194819,
+                "longitude": -121.845885111639
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "668 Blossom Hill Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "668 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14082255004",
+            "display_phone": "(408) 225-5004",
+            "distance": 623.2579178457437
+        },
+        {
+            "id": "2EsShWc1SpkMiAtScqNHLg",
+            "alias": "izumi-matcha-san-jose",
+            "name": "Izumi Matcha",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oygG2Afv6GD9yGQFH1N7dA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/izumi-matcha-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 170,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.3084490872182,
+                "longitude": -121.81388415159
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3005 Silver Creek Rd",
+                "address2": "Ste 142",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3005 Silver Creek Rd",
+                    "Ste 142",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 6557.558514494852
+        },
+        {
+            "id": "93s7v0S_4HZCMg3gmdiyZg",
+            "alias": "milk-ice-san-jose",
+            "name": "Milk + Ice",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Qi_PnCE8B3qTDtvmXZt-7w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/milk-ice-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 156,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.29054,
+                "longitude": -121.88058
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2390 Almaden Rd",
+                "address2": "Ste 30",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95125",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2390 Almaden Rd",
+                    "Ste 30",
+                    "San Jose, CA 95125"
+                ]
+            },
+            "phone": "+14088419134",
+            "display_phone": "(408) 841-9134",
+            "distance": 5336.471904375771
+        },
+        {
+            "id": "klhg7f2DyCIoBCrEuSMhRw",
+            "alias": "lele-cake-san-jose",
+            "name": "Lele Cake",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vROiICJ3r5EqyKkXx5kxuQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lele-cake-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "cakeshop",
+                    "title": "Patisserie/Cake Shop"
+                },
+                {
+                    "alias": "customcakes",
+                    "title": "Custom Cakes"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.2667009727627,
+                "longitude": -121.865534481659
+            },
+            "transactions": [],
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95120",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "San Jose, CA 95120"
+                ]
+            },
+            "phone": "+14083003494",
+            "display_phone": "(408) 300-3494",
+            "distance": 2541.3133477962524
+        },
+        {
+            "id": "lDLzKkPIB6mE7FKroJleug",
+            "alias": "charlies-cheesecake-works-san-jose",
+            "name": "Charlie's Cheesecake Works",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Juxg8u7rF2tbbJMT_WyLag/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/charlies-cheesecake-works-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 555,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "cupcakes",
+                    "title": "Cupcakes"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.229854,
+                "longitude": -121.871857
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1179 Redmond Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95120",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1179 Redmond Ave",
+                    "San Jose, CA 95120"
+                ]
+            },
+            "phone": "+14082684555",
+            "display_phone": "(408) 268-4555",
+            "distance": 3797.483028660149
+        },
+        {
+            "id": "jCO19dJnlFRjWpgkS433RQ",
+            "alias": "ice3-creamery-san-jose",
+            "name": "Ice3 Creamery",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0OCYKsY_U1-06NHlP3kEFA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ice3-creamery-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 162,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.261355629226,
+                "longitude": -121.875829712629
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "4750 Almaden Expy",
+                "address2": "Ste 116",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4750 Almaden Expy",
+                    "Ste 116",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14087847462",
+            "display_phone": "(408) 784-7462",
+            "distance": 3124.999746189446
+        },
+        {
+            "id": "1xG1MFP-3aQW-ILhJYbfUg",
+            "alias": "sweet-retreat-san-jose",
+            "name": "Sweet Retreat",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HGfXcVA3i7aqppxjTAwrSg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sweet-retreat-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 185,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2499859005326,
+                "longitude": -121.857526525855
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "846 Blossom Hill Rd",
+                "address2": "Ste D",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "846 Blossom Hill Rd",
+                    "Ste D",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14086224443",
+            "display_phone": "(408) 622-4443",
+            "distance": 1454.813355588788
+        },
+        {
+            "id": "dtusIFrHtD0nG816aRnDow",
+            "alias": "swifty-sweets-san-jose-2",
+            "name": "Swifty Sweets",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DdDKd-nZIi2mOdM-9w1ZdQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/swifty-sweets-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.25,
+                "longitude": -121.85
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95153",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "San Jose, CA 95153"
+                ]
+            },
+            "phone": "+18554794389",
+            "display_phone": "(855) 479-4389",
+            "distance": 840.1364046155259
+        },
+        {
+            "id": "2_tE0P1HkgzxESXeA7dI6g",
+            "alias": "ca-bakehouse-san-jose",
+            "name": "CA Bakehouse",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IP2WTS2NGXix_J3Xmz4nHg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ca-bakehouse-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 51,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "cakeshop",
+                    "title": "Patisserie/Cake Shop"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.331318,
+                "longitude": -121.857374
+            },
+            "transactions": [],
+            "location": {
+                "address1": "979 Story Rd",
+                "address2": "Unit 7066",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "979 Story Rd",
+                    "Unit 7066",
+                    "San Jose, CA 95122"
+                ]
+            },
+            "phone": "+14082879188",
+            "display_phone": "(408) 287-9188",
+            "distance": 8728.402412813697
+        },
+        {
+            "id": "ykPKeM6upBQKN2VOAcSs_w",
+            "alias": "the-giving-pies-san-jose",
+            "name": "The Giving Pies",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GPlSMqTa8GyqA4iJwVp2uQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-giving-pies-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 35,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.25323,
+                "longitude": -121.82418
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14084750563",
+            "display_phone": "(408) 475-0563",
+            "distance": 2200.0515086004625
+        },
+        {
+            "id": "-OnH7ai7mKxL8_ybqPMIBQ",
+            "alias": "cest-si-bon-bakery-san-jose-2",
+            "name": "C'est Si Bon Bakery",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Tz_1vZzhPPz7gVEG7Sg8Tg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cest-si-bon-bakery-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 630,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "customcakes",
+                    "title": "Custom Cakes"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2448134702619,
+                "longitude": -121.890670352917
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1375 Blossom Hill Rd",
+                "address2": "Ste 38",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1375 Blossom Hill Rd",
+                    "Ste 38",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14082662253",
+            "display_phone": "(408) 266-2253",
+            "distance": 4439.046871852855
+        },
+        {
+            "id": "JZAfm9mjLYjPl0qmyU6BkQ",
+            "alias": "ritas-italian-ice-san-jose-6",
+            "name": "Rita's Italian Ice",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HuZ1k4g7L71Ln1pkkg_LGw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ritas-italian-ice-san-jose-6?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 156,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2371520996094,
+                "longitude": -121.832099914551
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "5892 Santa Teresa Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5892 Santa Teresa Blvd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14086226334",
+            "display_phone": "(408) 622-6334",
+            "distance": 2043.2908877491977
+        },
+        {
+            "id": "f6oT78A9Lsrs09myi8HhIQ",
+            "alias": "dzuis-cakes-and-desserts-san-jose",
+            "name": "Dzui's Cakes & Desserts",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ANRhH59PeTh8nuqyYAoEsg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dzuis-cakes-and-desserts-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 164,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "cupcakes",
+                    "title": "Cupcakes"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.31884,
+                "longitude": -121.82788
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2451 Alvin Ave",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2451 Alvin Ave",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "+16692347799",
+            "display_phone": "(669) 234-7799",
+            "distance": 7301.991986568599
+        },
+        {
+            "id": "w7t1cHXtuzN7yIZjyG-dLA",
+            "alias": "cafe-and-tea-garden-san-jose-3",
+            "name": "Cafe & Tea Garden",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/P5lLmVcSlkuh_Z1fgPdD-Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cafe-and-tea-garden-san-jose-3?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "shavedice",
+                    "title": "Shaved Ice"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.3193986871,
+                "longitude": -121.823766712
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2569 S King Rd",
+                "address2": "C5",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2569 S King Rd",
+                    "C5",
+                    "San Jose, CA 95122"
+                ]
+            },
+            "phone": "+16692347044",
+            "display_phone": "(669) 234-7044",
+            "distance": 7464.473474022666
+        },
+        {
+            "id": "dGbYBDcPoRYKi-8PvjHTVQ",
+            "alias": "honey-berry-san-jose-3",
+            "name": "Honey Berry",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PiF3WEN9aQQbrmLkb_nmPQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/honey-berry-san-jose-3?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 438,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.300596130282,
+                "longitude": -121.771560884061
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "4848 San Felipe Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95135",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4848 San Felipe Rd",
+                    "San Jose, CA 95135"
+                ]
+            },
+            "phone": "+14082231421",
+            "display_phone": "(408) 223-1421",
+            "distance": 8104.717926260921
+        },
+        {
+            "id": "uB9MfIZFr94MAT-fFhG8Sw",
+            "alias": "the-curly-baker-san-jose",
+            "name": "The Curly Baker",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DmFshAshiH1TrhUQq2TGRQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-curly-baker-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "cupcakes",
+                    "title": "Cupcakes"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.2524757385254,
+                "longitude": -121.821792602539
+            },
+            "transactions": [],
+            "location": {
+                "address1": "",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2200.0515086004625
+        },
+        {
+            "id": "9nguk6zx3SaRP1Ds3NxA2w",
+            "alias": "pop-up-tea-coffee-and-snacks-san-jose",
+            "name": "Pop Up Tea, Coffee & Snacks",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/k2vDLlPyrPAlgqgWDLZakQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pop-up-tea-coffee-and-snacks-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 533,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.267076,
+                "longitude": -121.833671
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "185 Branham Ln",
+                "address2": "Ste 2",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95136",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "185 Branham Ln",
+                    "Ste 2",
+                    "San Jose, CA 95136"
+                ]
+            },
+            "phone": "+14084404675",
+            "display_phone": "(408) 440-4675",
+            "distance": 1640.4336575834952
+        },
+        {
+            "id": "Ns4Us4VPoEs5aowIcrrP0g",
+            "alias": "gabis-petite-cafe-san-jose",
+            "name": "Gabi's Petite Cafe",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LdT2zy_1X5UNBDCoSZzqZg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gabis-petite-cafe-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 289,
+            "categories": [
+                {
+                    "alias": "creperies",
+                    "title": "Creperies"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2497501,
+                "longitude": -121.8042049
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "5685 Cottle Rd",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5685 Cottle Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14082298887",
+            "display_phone": "(408) 229-8887",
+            "distance": 3333.0334396434264
+        },
+        {
+            "id": "QcfUSWPDEyUaBL9Ejp8d-Q",
+            "alias": "krazy-churros-san-jose",
+            "name": "Krazy Churros",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3hY7haSloFOxzd-KZQaLlg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/krazy-churros-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 208,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.309687,
+                "longitude": -121.8091204
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1807 E Capitol Exyp",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1807 E Capitol Exyp",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "+14086225914",
+            "display_phone": "(408) 622-5914",
+            "distance": 6901.540009501989
+        },
+        {
+            "id": "LUU61RfTlkJcshyzIMKu6g",
+            "alias": "milohas-san-jose",
+            "name": "Milohas",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/p6_oWKiEYrEm2XsLgGxGqg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/milohas-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 606,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "colombian",
+                    "title": "Colombian"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2556595,
+                "longitude": -121.8970034
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "4662 Meridian Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4662 Meridian Ave",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14087843736",
+            "display_phone": "(408) 784-3736",
+            "distance": 4889.012579259883
+        },
+        {
+            "id": "9-KQUXge9MkBUuRW4Vs79Q",
+            "alias": "crazy-crepes-san-jose-2",
+            "name": "Crazy Crepes",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/aOF_Pk8OQxZYeXHBQ4Ld_A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/crazy-crepes-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 37.2382011413574,
+                "longitude": -121.831901550293
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "6029 Snell Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6029 Snell Ave",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1962.7541777651152
+        },
+        {
+            "id": "WFogVWYGUmI-K3pdbCXwPg",
+            "alias": "85-c-bakery-cafe-san-jose-10",
+            "name": "85\u00b0C Bakery Cafe",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K4OLo_MdxWGQNfKDy0SE4Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/85-c-bakery-cafe-san-jose-10?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 346,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "cakeshop",
+                    "title": "Patisserie/Cake Shop"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 37.275588,
+                "longitude": -121.852164
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "541 W Capitol Expy",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95136",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "541 W Capitol Expy",
+                    "San Jose, CA 95136"
+                ]
+            },
+            "phone": "+14082658585",
+            "display_phone": "(408) 265-8585",
+            "distance": 2644.9737391946646
+        },
+        {
+            "id": "1WGXyqrtVTWMZZv5MOe8Kg",
+            "alias": "batch-58-san-jose",
+            "name": "Batch 58",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UNVMx6540_MaNhJdtckJWw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/batch-58-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "fooddeliveryservices",
+                    "title": "Food Delivery Services"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.24209,
+                "longitude": -121.83147
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14085960810",
+            "display_phone": "(408) 596-0810",
+            "distance": 2200.0515086004625
+        },
+        {
+            "id": "UYAP3_BD1vXUKWtCl_pWiw",
+            "alias": "happy-lemon-san-jose-16",
+            "name": "Happy Lemon",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5VzYOYv8wREkRA7i5a58Xg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/happy-lemon-san-jose-16?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 81,
+            "categories": [
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.250214,
+                "longitude": -121.8442963
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "630 Blossom Hill Rd",
+                "address2": "Ste 30",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "630 Blossom Hill Rd",
+                    "Ste 30",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14088419499",
+            "display_phone": "(408) 841-9499",
+            "distance": 457.51627163873746
+        },
+        {
+            "id": "6IKQzAh8PwZ52k3Sj9ZdDg",
+            "alias": "oros-thai-chicken-and-rice-san-jose",
+            "name": "Oros Thai Chicken & Rice",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ab3uLg_0s7B2Ce9Gh_p3zA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/oros-thai-chicken-and-rice-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 91,
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.249168,
+                "longitude": -121.831525
+            },
+            "transactions": [],
+            "location": {
+                "address1": "5663 Snell Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5663 Snell Ave",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14086201200",
+            "display_phone": "(408) 620-1200",
+            "distance": 1028.496168658758
+        },
+        {
+            "id": "TNU8zrqAAW8lLBuqpgmsKw",
+            "alias": "churros-el-guero-san-jose",
+            "name": "Churros El Guero",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FRHp4t_kpKEw3NHRIwiO-w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/churros-el-guero-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 187,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.3242117353444,
+                "longitude": -121.810373961926
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2217 Quimby Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2217 Quimby Rd",
+                    "San Jose, CA 95122"
+                ]
+            },
+            "phone": "+14086037362",
+            "display_phone": "(408) 603-7362",
+            "distance": 8306.386750359057
+        },
+        {
+            "id": "gQInCoEeqCNiSuomfFPkwA",
+            "alias": "sweet-gelato-tea-lounge-san-jose",
+            "name": "Sweet Gelato Tea Lounge",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_ySkuqlAwzjnT_VVKrLkwg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sweet-gelato-tea-lounge-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 1033,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "gelato",
+                    "title": "Gelato"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.3313361147367,
+                "longitude": -121.857381949738
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "979 Story Rd",
+                "address2": "Ste 7084",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "979 Story Rd",
+                    "Ste 7084",
+                    "San Jose, CA 95122"
+                ]
+            },
+            "phone": "+14082759999",
+            "display_phone": "(408) 275-9999",
+            "distance": 8728.490543836815
+        },
+        {
+            "id": "H4hLJ5EtQy0zb1eos6I-2A",
+            "alias": "snows-creamery-san-jose",
+            "name": "Snow's Creamery",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YUpciRCx8YHm4B0AB2MnHw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/snows-creamery-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "creperies",
+                    "title": "Creperies"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.238247,
+                "longitude": -121.831591
+            },
+            "transactions": [],
+            "location": {
+                "address1": "6029 Snell Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6029 Snell Ave",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14089125933",
+            "display_phone": "(408) 912-5933",
+            "distance": 1962.7541777651152
+        },
+        {
+            "id": "T3vB4tz2lRn7nbLJ1rJm9A",
+            "alias": "le-cr\u00e8me-cafe-san-jose",
+            "name": "Le Cr\u00e8me Cafe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8IZrUCYMAGAeMTvOUnrBgg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/le-cr%C3%A8me-cafe-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 199,
+            "categories": [
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.308685,
+                "longitude": -121.81368
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3005 Silver Creek Rd",
+                "address2": "Ste 134",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3005 Silver Creek Rd",
+                    "Ste 134",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "+14085281147",
+            "display_phone": "(408) 528-1147",
+            "distance": 6588.665303875402
+        },
+        {
+            "id": "tyr85X7PWdx54LOVzLzjAw",
+            "alias": "hannah-san-jose",
+            "name": "Hannah",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5aHx-V4yQWuJGimSH0TgDw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hannah-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 1105,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.33065,
+                "longitude": -121.9051
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "754 The Alameda",
+                "address2": "Ste 80",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95126",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "754 The Alameda",
+                    "Ste 80",
+                    "San Jose, CA 95126"
+                ]
+            },
+            "phone": "+14089711207",
+            "display_phone": "(408) 971-1207",
+            "distance": 10301.117364108248
+        },
+        {
+            "id": "X_hhObvEy-3YGJQ4av44xQ",
+            "alias": "cinnaholic-san-jose-2",
+            "name": "Cinnaholic",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/g1e2s7ZzQuCwG1lK9Lwu9w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cinnaholic-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 211,
+            "categories": [
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3328558338071,
+                "longitude": -121.884928643703
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "115 E San Carlos St",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95112",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "115 E San Carlos St",
+                    "San Jose, CA 95112"
+                ]
+            },
+            "phone": "+14083515400",
+            "display_phone": "(408) 351-5400",
+            "distance": 9580.107019549596
+        },
+        {
+            "id": "aHcSAHWKDAEwxyhAZPT7SQ",
+            "alias": "icicles-san-jose-7",
+            "name": "ICICLES",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/k_saBxH-VdE6gwV3F9xU-Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/icicles-san-jose-7?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 1111,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.30503,
+                "longitude": -121.8996
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1275 Lincoln Ave",
+                "address2": "Ste 1",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95125",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1275 Lincoln Ave",
+                    "Ste 1",
+                    "San Jose, CA 95125"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 7647.732772587264
+        },
+        {
+            "id": "VwSZVLc2CpCfWXzpqvPjAQ",
+            "alias": "nox-cookie-bar-san-jose",
+            "name": "Nox Cookie Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hw6ZQcYqSvNCfv5PEJjB5w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nox-cookie-bar-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 236,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.33346,
+                "longitude": -121.8872951
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "151 S 2nd St",
+                "address2": "Ste 185",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95113",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "151 S 2nd St",
+                    "Ste 185",
+                    "San Jose, CA 95113"
+                ]
+            },
+            "phone": "+14086561287",
+            "display_phone": "(408) 656-1287",
+            "distance": 9762.041338517194
+        },
+        {
+            "id": "e5yeJzk6jtyGsLC0M-n48g",
+            "alias": "bon-petits-san-jose",
+            "name": "Bon Petits",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PEhuKheiw4gZYUZk3G7z7g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bon-petits-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "cupcakes",
+                    "title": "Cupcakes"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.25323,
+                "longitude": -121.82418
+            },
+            "transactions": [],
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14087660063",
+            "display_phone": "(408) 766-0063",
+            "distance": 2200.0515086004625
+        },
+        {
+            "id": "EbMe_sIg1Lkrv-9RazB7rw",
+            "alias": "paris-baguette-san-jose-8",
+            "name": "Paris Baguette",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uMsuT9qpbBBx6hsK9ErOsw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/paris-baguette-san-jose-8?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 125,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "cakeshop",
+                    "title": "Patisserie/Cake Shop"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2622208449837,
+                "longitude": -121.877203881741
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1112 Branham Ln",
+                "address2": null,
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1112 Branham Ln",
+                    "San Jose, CA 95118"
+                ]
+            },
+            "phone": "+14084408445",
+            "display_phone": "(408) 440-8445",
+            "distance": 3268.4902021764055
+        },
+        {
+            "id": "brYM1uiRz_R8MJIYATrwtw",
+            "alias": "icerolls-san-jose",
+            "name": "Icerolls",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qhS0iVO4fGM6ERsSLwnczg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/icerolls-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 26,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.25199,
+                "longitude": -121.86203
+            },
+            "transactions": [],
+            "location": {
+                "address1": "925 Blossom Hill Rd",
+                "address2": "",
+                "address3": "Westfield Oakridge Mall, Shop 1379",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "925 Blossom Hill Rd",
+                    "Westfield Oakridge Mall, Shop 1379",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14086273354",
+            "display_phone": "(408) 627-3354",
+            "distance": 1888.8315619603616
+        },
+        {
+            "id": "iQJT-Ni9C_k_Fg5ZBBFVhg",
+            "alias": "the-sweetbox-bakery-san-jose-29",
+            "name": "The Sweetbox Bakery",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JACzvJZeQqmaGo2AF3_PDA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-sweetbox-bakery-san-jose-29?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 46,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.31081,
+                "longitude": -121.82541
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "+16692342804",
+            "display_phone": "(669) 234-2804",
+            "distance": 6279.238763036442
+        },
+        {
+            "id": "ei1G6vb67ortjD0GubPOnA",
+            "alias": "bistro-tupaz-san-jose-2",
+            "name": "Bistro Tupaz",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cI9tiaCFTKgdP0zVEWlnAA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bistro-tupaz-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 465,
+            "categories": [
+                {
+                    "alias": "modern_european",
+                    "title": "Modern European"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2366851,
+                "longitude": -121.8308739
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "5899 Santa Teresa Blvd",
+                "address2": "Ste 101",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5899 Santa Teresa Blvd",
+                    "Ste 101",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14085785860",
+            "display_phone": "(408) 578-5860",
+            "distance": 2200.776273131993
+        },
+        {
+            "id": "G_kNDp6zC39woiEyUsc0ag",
+            "alias": "tleaf-teapresso-san-jose-3",
+            "name": "Tleaf Teapresso",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TYRLr9ylnqn-cFyXIHaBow/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tleaf-teapresso-san-jose-3?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 275,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.248688599353,
+                "longitude": -121.857970789389
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "860 Blossom Hill Rd",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "860 Blossom Hill Rd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1539.91099438007
+        },
+        {
+            "id": "nUw4xodf4iGn4qJANwhqig",
+            "alias": "my-milkshake-almaden-san-jose-2",
+            "name": "My Milkshake Almaden",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WcRq5AZKXN2ix1H2SCTyWw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/my-milkshake-almaden-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 47,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "candy",
+                    "title": "Candy Stores"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.2299071952162,
+                "longitude": -121.884694709644
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "6081 Meridian Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95120",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6081 Meridian Ave",
+                    "San Jose, CA 95120"
+                ]
+            },
+            "phone": "+14083235566",
+            "display_phone": "(408) 323-5566",
+            "distance": 4634.7752461608825
+        },
+        {
+            "id": "J62JXyOPA9g8a02OtsBMcA",
+            "alias": "soyful-desserts-san-jose-8",
+            "name": "Soyful Desserts",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/T1WNLKWOiuSR-txMI4LJFg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/soyful-desserts-san-jose-8?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 233,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3090745900201,
+                "longitude": -121.814426575475
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3005 Silver Creek Rd",
+                "address2": "Ste 170",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3005 Silver Creek Rd",
+                    "Ste 170",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 6604.2758068103185
+        },
+        {
+            "id": "OCSJDsrairBDk45oEpulzw",
+            "alias": "meow-tea-san-jose",
+            "name": "Meow Tea",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oeOUVK4kRvDgJu7I6-jmUw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/meow-tea-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 343,
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.29956,
+                "longitude": -121.84016
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2857 Senter Rd",
+                "address2": "Ste G",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95111",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2857 Senter Rd",
+                    "Ste G",
+                    "San Jose, CA 95111"
+                ]
+            },
+            "phone": "+14086887589",
+            "display_phone": "(408) 688-7589",
+            "distance": 5080.004603979965
+        },
+        {
+            "id": "QbK3DGMZKHIFN1Zmhz-l-g",
+            "alias": "the-charming-kitchen-san-jose-5",
+            "name": "The Charming Kitchen",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mnfwBoVv1z00sAlHX8ILGQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-charming-kitchen-san-jose-5?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.29176,
+                "longitude": -121.88162
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95125",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "San Jose, CA 95125"
+                ]
+            },
+            "phone": "+14084447044",
+            "display_phone": "(408) 444-7044",
+            "distance": 5963.792026474743
+        },
+        {
+            "id": "pSRNe93ZZMQk7vM5TvbBXw",
+            "alias": "oooh-boba-tea-and-desserts-san-jose-2",
+            "name": "OooH Boba Tea and Desserts",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tFq0v4TYINPZGKfnoaQZyA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/oooh-boba-tea-and-desserts-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 101,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.309513,
+                "longitude": -121.809931
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1783 E Capitol Expy",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1783 E Capitol Expy",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "+14083001428",
+            "display_phone": "(408) 300-1428",
+            "distance": 6811.8694517836175
+        },
+        {
+            "id": "eLErsPGkfzByPMUDkzGN-A",
+            "alias": "tin-pot-creamery-campbell-2",
+            "name": "Tin Pot Creamery",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qucVw4yDgmbieKn6w9H1Lw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tin-pot-creamery-campbell-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 304,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.2884511035007,
+                "longitude": -121.93337734356
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1875 South Bascom Ave",
+                "address2": "Ste 370",
+                "address3": null,
+                "city": "Campbell",
+                "zip_code": "95008",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1875 South Bascom Ave",
+                    "Ste 370",
+                    "Campbell, CA 95008"
+                ]
+            },
+            "phone": "+14084128668",
+            "display_phone": "(408) 412-8668",
+            "distance": 8970.710500061212
+        },
+        {
+            "id": "NSFdiaznr7-h5Hp5t3GPqQ",
+            "alias": "passion-t-snacks-and-desserts-san-jose",
+            "name": "Passion-T Snacks and Desserts",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qk-IFxxsZgYsFKYIs0mUkg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/passion-t-snacks-and-desserts-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 468,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3105199,
+                "longitude": -121.84997
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2266 Senter Rd",
+                "address2": "Ste 128",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95112",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2266 Senter Rd",
+                    "Ste 128",
+                    "San Jose, CA 95112"
+                ]
+            },
+            "phone": "+14085640220",
+            "display_phone": "(408) 564-0220",
+            "distance": 6349.81176829837
+        },
+        {
+            "id": "k5xCuNNwdfpYdsu5PObAOw",
+            "alias": "voila-bakery-and-tea-san-jose",
+            "name": "Voila Bakery And Tea",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aI8ypqiQaDdsy9dZzZViXw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/voila-bakery-and-tea-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 63,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.308977,
+                "longitude": -121.814501
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3005 Silver Creek Rd",
+                "address2": "Ste 174",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3005 Silver Creek Rd",
+                    "Ste 174",
+                    "San Jose, CA 95121"
+                ]
+            },
+            "phone": "+14084408186",
+            "display_phone": "(408) 440-8186",
+            "distance": 6591.766161620769
+        },
+        {
+            "id": "EwRn6VVZ8Fctp-HbkSAkUQ",
+            "alias": "soyful-desserts-san-jose-2",
+            "name": "Soyful Desserts",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EUGBzcsAwbUd76ar3L8_fw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/soyful-desserts-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 680,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3319875706985,
+                "longitude": -121.856774212303
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "999 Story Rd",
+                "address2": "Unit 9048",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "999 Story Rd",
+                    "Unit 9048",
+                    "San Jose, CA 95122"
+                ]
+            },
+            "phone": "+14082169026",
+            "display_phone": "(408) 216-9026",
+            "distance": 8791.77407186308
+        },
+        {
+            "id": "u3lcIYyt5hhmK-gdBHxPrQ",
+            "alias": "susiecakes-san-jose-2",
+            "name": "SusieCakes",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UecAcnzxmNMf3cZTj5Acew/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/susiecakes-san-jose-2?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 399,
+            "categories": [
+                {
+                    "alias": "cupcakes",
+                    "title": "Cupcakes"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "customcakes",
+                    "title": "Custom Cakes"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.3084897966721,
+                "longitude": -121.901517435908
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1109 Lincoln Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Jose",
+                "zip_code": "95125",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1109 Lincoln Ave",
+                    "San Jose, CA 95125"
+                ]
+            },
+            "phone": "+14084462253",
+            "display_phone": "(408) 446-2253",
+            "distance": 8053.257812849284
+        },
+        {
+            "id": "7b7lIA5WlnnqycTKoLVKCA",
+            "alias": "pure-tea-bar-san-jose",
+            "name": "Pure Tea Bar",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PwRg1ZEN1nSyZy6oODxsaA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pure-tea-bar-san-jose?adjust_creative=5a1jm8VuhczsXD4fPOyDaA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5a1jm8VuhczsXD4fPOyDaA",
+            "review_count": 173,
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.236431,
+                "longitude": -121.804763
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "6195 Santa Teresa Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "zip_code": "95123",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "6195 Santa Teresa Blvd",
+                    "San Jose, CA 95123"
+                ]
+            },
+            "phone": "+14083001531",
+            "display_phone": "(408) 300-1531",
+            "distance": 3864.7835731032787
+        }
+    ],
+    "total": 1100,
+    "region": {
+        "center": {
+            "longitude": -121.84181213378906,
+            "latitude": 37.25382226726822
+        }
+    }
+}
